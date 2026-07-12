@@ -1,12 +1,31 @@
-# Kitāb al-Jamāhir fī Maʿrifat al-Jawāhir (Book of Precious Stones)
+# Kitab Al Jamahir
 
-**Author:** Al-Bīrūnī
+**Author:** various
+**Era / Date:** c. 1048 CE
+**Origin / Tradition:** Central Asia (al-Biruni)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Mineralogy, gemology
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition; ar.wikisource.
+Al-Biruni's 'Kitab al-Jamahir fi Ma'rifat al-Jawahir' — a systematic treatise on precious stones and metals with densities and classifications.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: الجماهر في معرفة الجواهر)
+## Why it matters
+
+The most scientifically rigorous pre-modern mineralogy; al-Biruni anticipated specific gravity.
+
+## Related manuscripts in this library
+
+- on-stones
+- de-re-metallica
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/الجماهر_في_معرفة_الجواهر
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

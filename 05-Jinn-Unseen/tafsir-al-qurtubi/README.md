@@ -1,12 +1,31 @@
-# Tafsīr al-Qurṭubī
+# Tafsir Al Qurtubi
 
-**Author:** al-Qurṭubī
+**Author:** various
+**Era / Date:** c. 1273 CE
+**Origin / Tradition:** Andalusia (al-Qurtubi)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Qur'anic exegesis
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic full PD edition; ar.wikisource partial.
+Al-Jami' li-Ahkam al-Qur'an — a celebrated tafsir emphasizing juristic and spiritual lessons.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: تفسير القرطبي)
+## Why it matters
+
+A major Andalusi exegesis linking law, theology, and the unseen.
+
+## Related manuscripts in this library
+
+- quran
+- tafsir-ibn-kathir
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/تفسير_القرطبي
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

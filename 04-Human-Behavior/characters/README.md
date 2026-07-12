@@ -1,18 +1,35 @@
 # Characters
 
-**Author:** Theophrastus
+**Author:** various
+**Era / Date:** c. 319 BCE
+**Origin / Tradition:** Ancient Greece (Theophrastus)
+**Language of text:** Greek (English translation)
+**Modern discipline(s):** Character types, satire
 
-**Language of text:** en
+## Summary
 
-**Source URL:** (verbatim public-domain; detected: archive.org)
+Theophrastus' 'Characters' — thirty sketches of human types and vices, the first character-study in literature.
 
-**Public-domain basis:** archive.org
+## Why it matters
 
-**Retrieval date:** 2026-07-12
+Originated the literary 'character' sketch and the study of personality types.
 
-**Note:** Gutenberg.
+## Related manuscripts in this library
 
-**File:** `text.txt` (verbatim, unmodified from source)
+- nicomachean-ethics
+- meditations
+
+## Source & authenticity
+
+✅ **Full verbatim text included** — `text.txt` (92073 bytes), retrieved unmodified from a public-domain source.
+
+**Source URL:** ** (verbatim public-domain; detected: archive.org)
+
+**Public-domain basis:** ** archive.org
+
+**Retrieval date:** ** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

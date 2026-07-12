@@ -1,12 +1,32 @@
-# Kitāb al-Ḥayawān (The Book of Animals)
+# Kitab Al Hayawan
 
-**Author:** Al-Jāḥiẓ
+**Author:** various
+**Era / Date:** c. 850 CE
+**Origin / Tradition:** Basra (al-Jahiz)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Zoology, Arabic prose, theological natural history
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition; original Arabic on ar.wikisource if present.
+Al-Jahiz's 'Book of Animals' — a wide-ranging, witty Arabic compendium on the nature, behaviour, and classification of animals, blending observation, anecdote, and Mutazili theology.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: كتاب الحيوان)
+## Why it matters
+
+A masterpiece of Arabic prose and an early evolutionary-leaning view of adaptation; the Islamic counterpart to the bestiary tradition.
+
+## Related manuscripts in this library
+
+- medieval-bestiaries
+- historia-animalium
+- ajaaib-al-makhluqat
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/كتاب_الحيوان
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

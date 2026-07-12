@@ -1,12 +1,16 @@
 # Turba Philosophorum
 
 **Author:** various
+**Era / Date:** —
+**Origin / Tradition:** —
+**Original language:** —
+**Modern discipline(s):** —
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Source & authenticity
 
-**Note:** Latin on la.wikisource.
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
 
-**Best authoritative source:** https://la.wikisource.org/ (search: Turba Philosophorum)
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

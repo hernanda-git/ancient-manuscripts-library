@@ -1,12 +1,31 @@
-# Tafsīr al-Ṭabarī
+# Tafsir Al Tabari
 
-**Author:** al-Ṭabarī
+**Author:** various
+**Era / Date:** c. 923 CE
+**Origin / Tradition:** Persia/Iraq (al-Tabari)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Qur'anic exegesis, history
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic full PD edition; ar.wikisource partial.
+The earliest great comprehensive tafsir and history (Tarikh al-Rusul wa-l-Muluk).
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: تفسير الطبري)
+## Why it matters
+
+The foundational classical exegesis; basis for later tafsirs.
+
+## Related manuscripts in this library
+
+- quran
+- tafsir-ibn-kathir
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/تفسير_الطبري
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

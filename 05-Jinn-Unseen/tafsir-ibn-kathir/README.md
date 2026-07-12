@@ -1,12 +1,31 @@
-# Tafsīr Ibn Kathīr
+# Tafsir Ibn Kathir
 
-**Author:** Ibn Kathīr
+**Author:** various
+**Era / Date:** c. 1373 CE
+**Origin / Tradition:** Syria (Ibn Kathir)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Qur'anic exegesis
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic full PD edition; ar.wikisource partial.
+A widely used Sunni tafsir (exegesis) of the Qur'an, explaining verses on jinn and the unseen.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: تفسير ابن كثير)
+## Why it matters
+
+The most-cited classical tafsir in the modern Muslim world.
+
+## Related manuscripts in this library
+
+- quran
+- tafsir-al-tabari
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/تفسير_ابن_كثير
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

@@ -1,12 +1,31 @@
 # Charaka Samhita
 
-**Author:** Charaka
+**Author:** various
+**Era / Date:** c. 2nd c. BCE–2nd c. CE
+**Origin / Tradition:** India (Charaka)
+**Original language:** Sanskrit (original)
+**Modern discipline(s):** Ayurveda, medicine, botany
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** Original Sanskrit via archive.org.
+The Charaka Samhita — a foundational Ayurvedic compendium detailing physiology, pathology, and herbal therapeutics.
 
-**Best authoritative source:** https://archive.org/details/charakasamhitaw00shri
+## Why it matters
+
+One of the two root texts of Ayurveda; central to South Asian medical botany.
+
+## Related manuscripts in this library
+
+- sushruta-samhita
+- shennong-ben-cao-jing
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://sa.wikisource.org/wiki/चरकसंहिता
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

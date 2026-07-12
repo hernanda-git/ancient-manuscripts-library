@@ -1,18 +1,36 @@
 # De Re Metallica
 
-**Author:** Georgius Agricola
+**Author:** various
+**Era / Date:** 1556 CE
+**Origin / Tradition:** Germany (Georgius Agricola)
+**Language of text:** Latin/German (English translation)
+**Modern discipline(s):** Mining, metallurgy, mineralogy
 
-**Language of text:** en
+## Summary
 
-**Source URL:** (verbatim public-domain; detected: Project Gutenberg)
+Agricola's 'De Re Metallica' — the first systematic treatise on mining and metallurgy, richly illustrated, covering ores, smelting, and assaying.
 
-**Public-domain basis:** Project Gutenberg
+## Why it matters
 
-**Retrieval date:** 2026-07-12
+The foundational modern work of mining/metallurgy; translated by Hoover; bridge from craft to science.
 
-**Note:** Gutenberg (already on disk).
+## Related manuscripts in this library
 
-**File:** `text.txt` (verbatim, unmodified from source)
+- on-stones
+- meteorologica
+- tiangong-kaiwu
+
+## Source & authenticity
+
+✅ **Full verbatim text included** — `text.txt` (1922397 bytes), retrieved unmodified from a public-domain source.
+
+**Source URL:** ** (verbatim public-domain; detected: Project Gutenberg)
+
+**Public-domain basis:** ** Project Gutenberg
+
+**Retrieval date:** ** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

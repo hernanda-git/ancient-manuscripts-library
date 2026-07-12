@@ -1,12 +1,31 @@
-# Iḥyāʾ ʿUlūm al-Dīn (Revival of the Religious Sciences)
+# Ihya Ulum Al Din
 
-**Author:** Al-Ghazālī
+**Author:** various
+**Era / Date:** c. 1095 CE
+**Origin / Tradition:** Persia/Khorasan (al-Ghazali)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Ethics, Sufism, theology
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition in full; ar.wikisource partial.
+Al-Ghazali's 'Revival of the Religious Sciences' — a 40-book synthesis of Islamic ethics, spirituality, and conduct.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: إحياء علوم الدين)
+## Why it matters
+
+The most influential work of Muslim moral and spiritual renewal; shaped Islamic ethics for centuries.
+
+## Related manuscripts in this library
+
+- tahdhib-al-akhlaq
+- muqaddimah
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/إحياء_علوم_الدين
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

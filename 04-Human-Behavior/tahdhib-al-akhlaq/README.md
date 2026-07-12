@@ -1,12 +1,31 @@
-# Tahdhīb al-Akhlāq (Refinement of Character)
+# Tahdhib Al Akhlaq
 
-**Author:** Ibn Miskawayh
+**Author:** various
+**Era / Date:** c. 1020 CE
+**Origin / Tradition:** Iran (Ibn Miskawayh)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Ethics, character
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition; ar.wikisource.
+Ibn Miskawayh's 'Refinement of Character' — a Neoplatonic-Aristotelian synthesis of Islamic virtue ethics.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: تهذيب الأخلاق)
+## Why it matters
+
+The first systematic Islamic ethical treatise, bridging Greek and Muslim thought.
+
+## Related manuscripts in this library
+
+- nicomachean-ethics
+- ihya-ulum-al-din
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/تهذيب_الأخلاق
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

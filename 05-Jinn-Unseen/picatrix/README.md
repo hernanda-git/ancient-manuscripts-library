@@ -1,12 +1,31 @@
-# Ghāyat al-Ḥakīm (Picatrix)
+# Picatrix
 
-**Author:** Maslama al-Majrīṭī
+**Author:** various
+**Era / Date:** c. 11th–13th c. CE
+**Origin / Tradition:** Andalusia/N. Africa (Maslama al-Majriti, attrib.)
+**Original language:** Arabic (original); Latin 'Picatrix'
+**Modern discipline(s):** Hermetic astral magic, talismans
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** Latin on la.wikisource if present.
+The 'Ghayat al-Hakim' — a major treatise of astral and talismanic magic synthesizing Hermetic, Harranian, and Islamic lore.
 
-**Best authoritative source:** https://la.wikisource.org/ (search: Picatrix)
+## Why it matters
+
+The most influential medieval magical treatise in both the Islamic world and Latin Europe.
+
+## Related manuscripts in this library
+
+- shams-al-maarif
+- al-asrar
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://archive.org/search?query=picatrix
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

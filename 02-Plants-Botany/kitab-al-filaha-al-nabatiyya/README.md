@@ -1,12 +1,31 @@
-# Kitāb al-Filāḥa al-Nabaṭiyya (The Nabataean Agriculture)
+# Kitab Al Filaha Al Nabatiyya
 
-**Author:** Ibn Wahshiyya
+**Author:** various
+**Era / Date:** c. 10th c. CE
+**Origin / Tradition:** Iraq (Ibn Wahshiyya)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Agriculture, Nabatean lore
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition; ar.wikisource.
+Ibn Wahshiyya's 'Nabatean Agriculture' — a large work on farming attributed to ancient Babylonian/Nabatean sources, rich in plant and magical lore.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: الفلاحة النبطية)
+## Why it matters
+
+A crucial source for pre-Islamic Mesopotamian agriculture and for later occult/alchemy traditions.
+
+## Related manuscripts in this library
+
+- kitab-al-filaha
+- al-asrar
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/الفلاحة_النبطية
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

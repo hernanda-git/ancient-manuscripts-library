@@ -1,12 +1,16 @@
-# Emerald Tablet (Tabula Smaragdina)
+# Emerald Tablet
 
-**Author:** Hermes Trismegistus
+**Author:** various
+**Era / Date:** —
+**Origin / Tradition:** —
+**Original language:** —
+**Modern discipline(s):** —
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Source & authenticity
 
-**Note:** Short; via Wikisource la/en.
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
 
-**Best authoritative source:** https://la.wikisource.org/ (search: Tabula Smaragdina)
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

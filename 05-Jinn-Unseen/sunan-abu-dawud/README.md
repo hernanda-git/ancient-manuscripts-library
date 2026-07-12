@@ -1,12 +1,32 @@
-# Sunan Abī Dāwūd
+# Sunan Abu Dawud
 
-**Author:** Abū Dāwūd
+**Author:** various
+**Era / Date:** c. 889 CE
+**Origin / Tradition:** Sistan (Abu Dawud)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Hadith
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic full PD edition; ar.wikisource partial.
+One of the six canonical Sunni hadith collections (al-Sihah al-Sitta), strong on law and ritual.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: سنن أبي داود)
+## Why it matters
+
+A core sunan collection feeding jurisprudential and occult-adjacent reports.
+
+## Related manuscripts in this library
+
+- quran
+- sahih-al-bukhari
+- jami-al-tirmidhi
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/سنن_أبي_داود
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

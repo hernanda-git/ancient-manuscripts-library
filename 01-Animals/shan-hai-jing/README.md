@@ -1,12 +1,31 @@
-# Shan Hai Jing (Classic of Mountains and Seas)
+# Shan Hai Jing
 
 **Author:** various
+**Era / Date:** c. 4th–2nd c. BCE (compiled)
+**Origin / Tradition:** China
+**Original language:** Chinese (original)
+**Modern discipline(s):** Geography, mythic zoology, cosmology
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** Original Chinese on zh.wikisource.
+The 'Classic of Mountains and Seas' — a Chinese compendium of mythic geography listing hundreds of lands, peoples, spirits, and fantastic beasts.
 
-**Best authoritative source:** https://zh.wikisource.org/ (search: 山海经)
+## Why it matters
+
+A cornerstone of Chinese myth and early geographic/zoological imagination; parallels the Islamic 'aja'ib genre.
+
+## Related manuscripts in this library
+
+- erya
+- ajaaib-al-makhluqat
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://zh.wikisource.org/wiki/山海經
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

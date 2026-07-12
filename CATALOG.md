@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 82 manuscripts: 31 verbatim public-domain texts + 51 pointers.
+> Auto-generated index of every category and manuscript. 79 manuscripts: 32 verbatim public-domain texts + 47 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -85,21 +85,18 @@
 | [tao-te-ching](04-Human-Behavior/tao-te-ching) | ✅ verbatim |
 | [the-analects](04-Human-Behavior/the-analects) | ✅ verbatim |
 
-## 05-Jinn-Unseen (20 manuscripts)
+## 05-Jinn-Unseen (17 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
-| [ajaaib-al-makhluqat-jinn](05-Jinn-Unseen/ajaaib-al-makhluqat-jinn) | 🔗 pointer |
 | [ajaib-literature](05-Jinn-Unseen/ajaib-literature) | 🔗 pointer |
 | [futuhat-al-makkiyya](05-Jinn-Unseen/futuhat-al-makkiyya) | ✅ verbatim |
 | [jami-al-tirmidhi](05-Jinn-Unseen/jami-al-tirmidhi) | 🔗 pointer |
 | [kitab-al-aghani](05-Jinn-Unseen/kitab-al-aghani) | 🔗 pointer |
-| [kitab-al-filaha-al-nabatiyya-jinn](05-Jinn-Unseen/kitab-al-filaha-al-nabatiyya-jinn) | 🔗 pointer |
 | [mujam-al-buldan](05-Jinn-Unseen/mujam-al-buldan) | 🔗 pointer |
 | [nujum-al-ulum](05-Jinn-Unseen/nujum-al-ulum) | 🔗 pointer |
-| [one-thousand-and-one-nights-jinn](05-Jinn-Unseen/one-thousand-and-one-nights-jinn) | 🔗 pointer |
 | [picatrix](05-Jinn-Unseen/picatrix) | 🔗 pointer |
-| [quran](05-Jinn-Unseen/quran) | 🔗 pointer |
+| [quran](05-Jinn-Unseen/quran) | ✅ verbatim |
 | [sahih-al-bukhari](05-Jinn-Unseen/sahih-al-bukhari) | 🔗 pointer |
 | [sahih-muslim](05-Jinn-Unseen/sahih-muslim) | 🔗 pointer |
 | [shams-al-maarif](05-Jinn-Unseen/shams-al-maarif) | 🔗 pointer |
@@ -111,4 +108,4 @@
 | [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | 🔗 pointer |
 
 
-**Totals:** 82 manuscripts · 31 verbatim · 51 pointer.
+**Totals:** 79 manuscripts · 32 verbatim · 47 pointer.

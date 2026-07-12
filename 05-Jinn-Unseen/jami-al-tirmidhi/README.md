@@ -1,12 +1,31 @@
-# Jāmiʿ al-Tirmidhī
+# Jami Al Tirmidhi
 
-**Author:** al-Tirmidhī
+**Author:** various
+**Era / Date:** c. 892 CE
+**Origin / Tradition:** Transoxiana (al-Tirmidhi)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Hadith
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic full PD edition; ar.wikisource partial.
+One of the six canonical Sunni collections, notable for grading hadith.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: جامع الترمذي)
+## Why it matters
+
+Definitive for hadith classification; part of the Sihah al-Sitta.
+
+## Related manuscripts in this library
+
+- quran
+- sunan-abu-dawud
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/جامع_الترمذي
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*

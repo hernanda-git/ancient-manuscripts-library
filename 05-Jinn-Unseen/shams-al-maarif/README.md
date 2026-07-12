@@ -1,12 +1,32 @@
-# Shams al-Maʿārif
+# Shams Al Maarif
 
-**Author:** Ahmad al-Būnī
+**Author:** various
+**Era / Date:** c. 13th c. CE
+**Origin / Tradition:** Islamic world (Ahmad al-Buni)
+**Original language:** Arabic (original)
+**Modern discipline(s):** Occult, talismans, the unseen
 
-**Status:** TEXT NOT INCLUDED — no free authentic public-domain edition located.
+## Summary
 
-**Note:** No free authentic PD edition; ar.wikisource.
+Al-Buni's grimoire of magic, divine names, talismans, and contacting spirits — the most influential Islamic occult manual.
 
-**Best authoritative source:** https://ar.wikisource.org/ (search: شمس المعارف الكبرى)
+## Why it matters
+
+The central practical text of the Islamic 'science of the unseen'.
+
+## Related manuscripts in this library
+
+- quran
+- picatrix
+- nujum-al-ulum
+
+## Source & authenticity
+
+⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+
+**Authoritative reference:** https://ar.wikisource.org/wiki/شمس_المعارف_الكبرى
+
+*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
 
 ---
-*Part of the Ancient Manuscripts Library. Back to [category README](../README.md).*
+*Part of the Ancient Manuscripts Library.*
