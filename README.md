@@ -6,19 +6,30 @@
 
 ---
 
-## Repository Structure — 6 Categories
+## Authenticity Policy (read this first)
+
+Every manuscript in this library is, where possible, the **actual public-domain source text** — downloaded verbatim from Project Gutenberg, Wikisource (original-language editions), or archive.org. Nothing here is summarized, paraphrased, machine-translated, or generated.
+
+- **`text.txt` present** → the real, unmodified public-domain text (English translation where a PD translation exists, otherwise the **original language** — Arabic / Greek / Latin / Sanskrit / Chinese / Persian).
+- **Pointer README only** → no free, authentic, complete public-domain edition could be located. These contain a bibliography and a link to the authoritative source (Wikisource work page, archive.org, or library catalog). **No text is fabricated.** Many Islamic, Sanskrit, and Chinese classics have no free complete edition online yet; their pointers are honest placeholders for future completion.
+
+This is intentional: the requirement is *authentic source*, not *plausible text*. A real 3KB stub is never passed off as a book.
+
+---
+
+## Repository Structure — 5 Domain Categories
 
 ```
 ancient-manuscripts-library/
-├── 00-Library-Framework/        # 02 docs — domain taxonomy + covered/planned checklist
-├── 01-Animals/                  # 01 doc  — zoology, bestiaries, mythical creatures
-├── 02-Plants-Botany/            # 01 doc  — botany, herbals, agriculture, sacred plants
-├── 03-Materials-Mineralogy/     # 01 doc  — minerals, metals, alchemy, gemology
-├── 04-Human-Behavior/           # 01 doc  — psychology, ethics, character, leadership
-├── 05-Jinn-Unseen/              # 01 doc  — jinn, spirits, cosmology, esoterica
+├── 00-Library-Framework/        # taxonomy + covered/planned checklist
+├── 01-Animals/                  # 16 manuscripts (10 verbatim + 6 pointers)
+├── 02-Plants-Botany/            # 14 manuscripts (5 verbatim + 9 pointers)
+├── 03-Materials-Mineralogy/     # 17 manuscripts (6 verbatim + 11 pointers)
+├── 04-Human-Behavior/           # 15 manuscripts (9 verbatim + 6 pointers)
+├── 05-Jinn-Unseen/              # 19 manuscripts (1 verbatim + 18 pointers)
 │
 ├── README.md                    # ← You are here
-├── CATALOG.md                   # ← Full structure map (auto-maintained)
+├── CATALOG.md                   # ← Full structure map + per-manuscript status
 ├── .gitignore
 └── .qdrant-initialized
 ```
@@ -29,11 +40,11 @@ ancient-manuscripts-library/
 
 | Metric | Value |
 |:-------|:------|
-| **📄 Knowledge Documents** | **7** markdown files |
-| **🗂️ Topic Categories** | **6** (1 framework + 5 domains) |
-| **🌍 Traditions Covered** | Islamic, Greek, Roman, Indian, Chinese, Egyptian, Mesopotamian, European medieval |
-| **📐 Format** | Self-contained markdown guides, cross-linked by `README.md` index per folder |
-| **🗺️ Expansion Taxonomy** | 60+ planned domains (`00-Library-Framework/taxonomy.md`) |
+| **📚 Manuscripts catalogued** | **81** across 5 domains |
+| **📄 Verbatim public-domain texts included** | **31** (Gutenberg / Wikisource / archive.org) |
+| **🔗 Pointer entries (no free authentic edition)** | **50** (bibliography + source link) |
+| **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
+| **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |
 | **🔓 License** | Open Knowledge — Public Repository |
 
@@ -41,68 +52,48 @@ ancient-manuscripts-library/
 
 ## Deep-Dive Index by Category
 
-### Framework
-- **00-Library-Framework** — the master `taxonomy.md` (60+ knowledge domains) and `build-checklist.md` (which domains are covered ✅ vs planned). Use these to expand the library systematically.
-
 ### Natural World
-- **01-Animals** — *Ancient Manuscripts — Animals, Mythical Creatures & Zoological Knowledge*: al-Jāḥiẓ's *Kitāb al-Ḥayawān*, Aristotle's *Historia Animalium*, Pliny's *Naturalis Historia*, medieval bestiaries, *Pañcatantra*, *Shan Hai Jing*, and more.
-- **02-Plants-Botany** — *Ancient Manuscripts — Plants, Trees & Botanical Knowledge*: al-Dinawari's *Kitāb al-Nabāt*, Dioscorides' *De Materia Medica*, Theophrastus, *Bencao Gangmu*, esoteric botany in *Shams al-Maʿārif*.
-- **03-Materials-Mineralogy** — *Ancient Manuscripts — Materials, Minerals & Metals*: al-Bīrūnī's *Kitāb al-Jamāhir*, Jabirian alchemy, Theophrastus *On Stones*, Agricola's *De Re Metallica*, *Tiangong Kaiwu*.
+- **01-Animals** — *Ancient Manuscripts — Animals, Mythical Creatures & Zoological Knowledge*. Verbatim: Aristotle's *Historia Animalium*, *On the Parts of Animals*, *On the Generation of Animals*; Pliny's *Naturalis Historia*; *Physiologus*; *Pañcatantra*; *Hitopadeśa*; *Epic of Gilgamesh*; *Shan Hai Jing* (zh); *Erya* (zh); *One Thousand and One Nights*. Pointers: al-Jāḥiẓ's *Kitāb al-Ḥayawān*, *Kitāb al-Bayṭarah*, *ʿAjāʾib al-Makhlūqāt*, Ebers Papyrus animals, Babylonian omens.
+- **02-Plants-Botany** — *Ancient Manuscripts — Plants, Trees & Botanical Knowledge*. Verbatim: Dioscorides' *De Materia Medica*; Theophrastus' *Enquiry into Plants*; Pliny (botany); *Shennong Bencao Jing* (zh); *Vrikshayurveda* (sa). Pointers: al-Dinawari, Ibn al-ʿAwwām, Ibn Wahshiyya, Ibn al-Bayṭār, Avicenna's *Canon*, *Charaka/Sushruta Samhita* (sa), *Bencao Gangmu* (zh), *Shams al-Maʿārif*.
+- **03-Materials-Mineralogy** — *Ancient Manuscripts — Materials, Minerals & Metals*. Verbatim: Theophrastus' *On Stones*; Aristotle's *Meteorologica*; *Arthashastra*; Theophilus' *On Divers Arts*; Agricola's *De Re Metallica*; Pliny (materials). Pointers: al-Bīrūnī, Jabirian corpus, al-Rāzī, *Tiāngōng Kāiwù* (zh), *Kaogong Ji* (zh), Egyptian craft texts, cuneiform tablets, Emerald Tablet, *Turba Philosophorum*.
 
 ### Human & Unseen
-- **04-Human-Behavior** — *Ancient Manuscripts — Human Behavior & Character*: al-Ghazālī's *Iḥyāʾ*, Aristotle's *Nicomachean Ethics*, Marcus Aurelius, Confucius, *Bhagavad Gita*, with a cross-reference table and suggested reading order.
-- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*: Qur'anic sources, Hadith, classical *tafsīr*, *ʿAjāʾib al-Makhlūqāt*, *Shams al-Maʿārif*, *Picatrix*, Sufi cosmology.
+- **04-Human-Behavior** — *Ancient Manuscripts — Human Behavior & Character*. Verbatim: Aristotle's *Nicomachean Ethics*; Theophrastus' *Characters*; Plato's *Republic*; Marcus Aurelius' *Meditations*; Seneca's *De Ira*; Confucius' *Analects*; Laozi's *Tao Te Ching*; *Bhagavad Gita*; *Arthashastra*. Pointers: al-Ghazālī's *Iḥyāʾ*, Ibn Miskawayh, Ibn Khaldun's *Muqaddimah*, mirrors-for-princes.
+- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar). Pointers: the Qur'an, the six canonical Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature — none with a free complete authentic PD edition located.
 
----
-
-## Document Shape
-
-Every domain folder contains:
-
-- A **`README.md` index** listing each document with its title and a one-line scope.
-- One or more **curated guide `.md` files**, each following a consistent structure:
-  - `> Overview` blockquote (what the domain is and why it was documented)
-  - Sources grouped **by civilization/tradition** (`# 1. Islamic Golden Age`, `# 2. Ancient Greece`, …)
-  - Per-source **Focus / Topics / Modern Equivalent** sections
-  - A closing **Major Themes** synthesis and (where relevant) **Suggested Reading Order** + **Cross-Reference Table**
-
-This makes each guide self-contained and comparable across cultures.
+Each manuscript folder contains a `README.md` (title, author, language, source URL, public-domain basis) and, where available, the verbatim `text.txt`. See each category's `_MANIFEST.md` for the full status table.
 
 ---
 
 ## How to Read
 
-1. **👁️ Browse online** — open the repository on GitHub and navigate the numbered directories.
-2. **🏛️ Start from a domain** — open `01-Animals/README.md` (or any folder) and pick a guide.
-3. **🧭 Plan expansion** — read `00-Library-Framework/taxonomy.md` to see the full 60+ domain map, then `build-checklist.md` for what's already covered.
+1. **👁️ Browse online** — navigate the numbered category directories on GitHub.
+2. **📜 Read a real text** — open any manuscript folder; `text.txt` is the authentic source.
+3. **🔗 Follow a pointer** — for works without a free edition, the README links to where the authentic text can be obtained.
+4. **🗺️ Plan expansion** — `00-Library-Framework/taxonomy.md` (60+ domains) + `build-checklist.md`.
 
 ---
 
 ## Roadmap
 
-- [x] 5 curated cross-cultural manuscript guides (Animals, Plants, Materials, Human Behavior, Jinn/Unseen)
+- [x] 5 curated cross-cultural guides (Animals, Plants, Materials, Human Behavior, Jinn/Unseen)
+- [x] 81 manuscripts catalogued; 31 verbatim PD texts included; 50 honest pointers
 - [x] Master taxonomy of 60+ knowledge domains
-- [x] Covered/planned expansion checklist
-- [ ] Fungi & Marine Life guides
-- [ ] Medicine / Anatomy / Physiology guides
-- [ ] Astronomy & Cosmology guides
-- [ ] Philosophy, Mathematics, Engineering guides
-- [ ] Per-domain sub-folders with deeper primary-source excerpts
-- [ ] Obsidian vault + Qdrant brain integration (mirror of `esoteric-alexandria` pattern)
-- [ ] Automated gap-analysis cron (flag taxonomy domains with no guide yet)
+- [ ] Upgrade more pointers → verbatim text as free editions are located
+- [ ] Add Fungi, Marine Life, Medicine, Astronomy, Philosophy, Mathematics, Engineering domains
+- [ ] Obsidian vault + Qdrant brain integration (mirror of `esoteric-alexandria`)
+- [ ] Automated gap-analysis: flag taxonomy domains with no manuscript yet
 
 ---
 
 ## Contributing
 
-The library grows through collective effort.
+- **Add a verbatim text** — place `text.txt` (real PD source) + `README.md` in `NN-Category/<slug>/` and add a row to `_MANIFEST.md`. Only authentic public-domain text, please.
+- **Upgrade a pointer** — if you locate a free authentic edition, replace the pointer README with the real `text.txt` + metadata.
+- **Add a domain** — create `NN-Name/` following the existing pattern; update `build-checklist.md`.
+- **Report a gap** — open an issue for a missing domain or a better source link.
 
-- **Add a guide** — drop a new `ancient-manuscripts-*.md` into the relevant numbered folder and add it to that folder's `README.md` index.
-- **Add a domain** — if a taxonomy domain has no folder yet, create `NN-Name/` with a `README.md` and open a PR; update `build-checklist.md` to mark it ✅.
-- **Improve a guide** — extend any document with newer scholarship, more traditions, or better cross-references.
-- **Report a gap** — open an issue for a missing domain or source.
-
-> *"The Library of Alexandria burned once. This one is rebuilt, document by document."*
+> *"The Library of Alexandria burned once. This one is rebuilt, document by document — and every document here is the real thing."*
 
 ---
 
