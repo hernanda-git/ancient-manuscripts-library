@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 81 manuscripts: 31 verbatim public-domain texts + 50 pointers.
+> Auto-generated index of every category and manuscript. 82 manuscripts: 31 verbatim public-domain texts + 51 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -85,7 +85,7 @@
 | [tao-te-ching](04-Human-Behavior/tao-te-ching) | ✅ verbatim |
 | [the-analects](04-Human-Behavior/the-analects) | ✅ verbatim |
 
-## 05-Jinn-Unseen (19 manuscripts)
+## 05-Jinn-Unseen (20 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
@@ -96,6 +96,7 @@
 | [kitab-al-aghani](05-Jinn-Unseen/kitab-al-aghani) | 🔗 pointer |
 | [kitab-al-filaha-al-nabatiyya-jinn](05-Jinn-Unseen/kitab-al-filaha-al-nabatiyya-jinn) | 🔗 pointer |
 | [mujam-al-buldan](05-Jinn-Unseen/mujam-al-buldan) | 🔗 pointer |
+| [nujum-al-ulum](05-Jinn-Unseen/nujum-al-ulum) | 🔗 pointer |
 | [one-thousand-and-one-nights-jinn](05-Jinn-Unseen/one-thousand-and-one-nights-jinn) | 🔗 pointer |
 | [picatrix](05-Jinn-Unseen/picatrix) | 🔗 pointer |
 | [quran](05-Jinn-Unseen/quran) | 🔗 pointer |
@@ -110,4 +111,4 @@
 | [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | 🔗 pointer |
 
 
-**Totals:** 81 manuscripts · 31 verbatim · 50 pointer.
+**Totals:** 82 manuscripts · 31 verbatim · 51 pointer.

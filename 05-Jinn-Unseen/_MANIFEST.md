@@ -21,5 +21,6 @@
 | tafsir-al-qurtubi | pointer | — | — |
 | tafsir-al-tabari | pointer | — | — |
 | tafsir-ibn-kathir | pointer | — | — |
+| nujum-al-ulum | pointer | — | — |
 
-**Total:** 19 · **downloaded (verbatim):** 1 · **pointer:** 18
+**Total:** 20 · **downloaded (verbatim):** 1 · **pointer:** 19

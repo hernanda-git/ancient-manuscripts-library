@@ -26,7 +26,7 @@ ancient-manuscripts-library/
 ├── 02-Plants-Botany/            # 14 manuscripts (5 verbatim + 9 pointers)
 ├── 03-Materials-Mineralogy/     # 17 manuscripts (6 verbatim + 11 pointers)
 ├── 04-Human-Behavior/           # 15 manuscripts (9 verbatim + 6 pointers)
-├── 05-Jinn-Unseen/              # 19 manuscripts (1 verbatim + 18 pointers)
+├── 05-Jinn-Unseen/           # 20 manuscripts (1 verbatim + 19 pointers)
 │
 ├── README.md                    # ← You are here
 ├── CATALOG.md                   # ← Full structure map + per-manuscript status
@@ -40,9 +40,9 @@ ancient-manuscripts-library/
 
 | Metric | Value |
 |:-------|:------|
-| **📚 Manuscripts catalogued** | **81** across 5 domains |
+| **📚 Manuscripts catalogued** | **82** across 5 domains |
 | **📄 Verbatim public-domain texts included** | **31** (Gutenberg / Wikisource / archive.org) |
-| **🔗 Pointer entries (no free authentic edition)** | **50** (bibliography + source link) |
+| **🔗 Pointer entries (no free authentic edition)** | **51** (bibliography + source link) |
 | **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
 | **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |
@@ -59,7 +59,7 @@ ancient-manuscripts-library/
 
 ### Human & Unseen
 - **04-Human-Behavior** — *Ancient Manuscripts — Human Behavior & Character*. Verbatim: Aristotle's *Nicomachean Ethics*; Theophrastus' *Characters*; Plato's *Republic*; Marcus Aurelius' *Meditations*; Seneca's *De Ira*; Confucius' *Analects*; Laozi's *Tao Te Ching*; *Bhagavad Gita*; *Arthashastra*. Pointers: al-Ghazālī's *Iḥyāʾ*, Ibn Miskawayh, Ibn Khaldun's *Muqaddimah*, mirrors-for-princes.
-- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar). Pointers: the Qur'an, the six canonical Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature — none with a free complete authentic PD edition located.
+- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar). Pointers: the Qur'an, the six canonical Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature, *Kitāb al-Aghānī*, and *Nujūm al-ʿUlūm* ("Stars of the Sciences", Muḥammad Qulī of Bijapur, 1571) — none with a free complete authentic PD edition located.
 
 Each manuscript folder contains a `README.md` (title, author, language, source URL, public-domain basis) and, where available, the verbatim `text.txt`. See each category's `_MANIFEST.md` for the full status table.
 
