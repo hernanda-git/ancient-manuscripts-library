@@ -12,7 +12,7 @@
 | jabirian-corpus | pointer | — | — |
 | kaogong-ji | pointer | — | — |
 | kitab-al-ahjar | pointer | — | — |
-| kitab-al-jamahir | pointer | — | — |
+| kitab-al-jamahir | downloaded | text.txt (582002B) | ar |
 | meteorologica | downloaded | text.txt (466289B) | en |
 | naturalis-historia-materials | downloaded | text.txt (1581732B) | en |
 | on-stones | downloaded | text.txt (327707B) | en |
@@ -20,4 +20,4 @@
 | tiangong-kaiwu | pointer | — | — |
 | turba-philosophorum | pointer | — | — |
 
-**Total:** 17 · **downloaded (verbatim):** 6 · **pointer:** 11
+**Total:** 17 · **downloaded (verbatim):** 7 · **pointer:** 10

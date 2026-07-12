@@ -22,11 +22,11 @@ This is intentional: the requirement is *authentic source*, not *plausible text*
 ```
 ancient-manuscripts-library/
 ├── 00-Library-Framework/        # taxonomy + covered/planned checklist
-├── 01-Animals/                  # 16 manuscripts (10 verbatim + 6 pointers)
-├── 02-Plants-Botany/            # 14 manuscripts (5 verbatim + 9 pointers)
-├── 03-Materials-Mineralogy/     # 17 manuscripts (6 verbatim + 11 pointers)
+├── 01-Animals/                  # 16 manuscripts (11 verbatim + 5 pointers)
+├── 02-Plants-Botany/            # 14 manuscripts (7 verbatim + 7 pointers)
+├── 03-Materials-Mineralogy/     # 17 manuscripts (7 verbatim + 10 pointers)
 ├── 04-Human-Behavior/           # 15 manuscripts (9 verbatim + 6 pointers)
-├── 05-Jinn-Unseen/           # 17 manuscripts (2 verbatim + 15 pointers)
+├── 05-Jinn-Unseen/           # 17 manuscripts (5 verbatim + 12 pointers)
 │
 ├── README.md                    # ← You are here
 ├── CATALOG.md                   # ← Full structure map + per-manuscript status
@@ -41,8 +41,8 @@ ancient-manuscripts-library/
 | Metric | Value |
 |:-------|:------|
 | **📚 Manuscripts catalogued** | **79** across 5 domains |
-| **📄 Verbatim public-domain texts included** | **32** (Gutenberg / Wikisource / archive.org / quran.com) |
-| **🔗 Pointer entries (no free authentic edition)** | **47** (bibliography + source link) |
+| **📄 Verbatim public-domain texts included** | **39** (Gutenberg / Wikisource / archive.org / quran.com) |
+| **🔗 Pointer entries (no free authentic edition)** | **40** (bibliography + source link) |
 | **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
 | **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |
@@ -54,13 +54,11 @@ ancient-manuscripts-library/
 
 ### Natural World
 - **01-Animals** — *Ancient Manuscripts — Animals, Mythical Creatures & Zoological Knowledge*. Verbatim: Aristotle's *Historia Animalium*, *On the Parts of Animals*, *On the Generation of Animals*; Pliny's *Naturalis Historia*; *Physiologus*; *Pañcatantra*; *Hitopadeśa*; *Epic of Gilgamesh*; *Shan Hai Jing* (zh); *Erya* (zh); *One Thousand and One Nights*. Pointers: al-Jāḥiẓ's *Kitāb al-Ḥayawān*, *Kitāb al-Bayṭarah*, *ʿAjāʾib al-Makhlūqāt*, Ebers Papyrus animals, Babylonian omens.
-- **02-Plants-Botany** — *Ancient Manuscripts — Plants, Trees & Botanical Knowledge*. Verbatim: Dioscorides' *De Materia Medica*; Theophrastus' *Enquiry into Plants*; Pliny (botany); *Shennong Bencao Jing* (zh); *Vrikshayurveda* (sa). Pointers: al-Dinawari, Ibn al-ʿAwwām, Ibn Wahshiyya, Ibn al-Bayṭār, Avicenna's *Canon*, *Charaka/Sushruta Samhita* (sa), *Bencao Gangmu* (zh), *Shams al-Maʿārif*.
-- **03-Materials-Mineralogy** — *Ancient Manuscripts — Materials, Minerals & Metals*. Verbatim: Theophrastus' *On Stones*; Aristotle's *Meteorologica*; *Arthashastra*; Theophilus' *On Divers Arts*; Agricola's *De Re Metallica*; Pliny (materials). Pointers: al-Bīrūnī, Jabirian corpus, al-Rāzī, *Tiāngōng Kāiwù* (zh), *Kaogong Ji* (zh), Egyptian craft texts, cuneiform tablets, Emerald Tablet, *Turba Philosophorum*.
-
-### Human & Unseen
+- **02-Plants-Botany** — *Ancient Manuscripts — Plants, Trees & Botanical Knowledge*. Verbatim: Dioscorides' *De Materia Medica*; Theophrastus' *Enquiry into Plants*; Pliny (botany); *Shennong Bencao Jing* (zh); *Vrikshayurveda* (sa); *Charaka Samhita* (sa); *Sushruta Samhita* (sa). Pointers: al-Dinawari, Ibn al-ʿAwwām, Ibn Wahshiyya, Ibn al-Bayṭār, Avicenna's *Canon*, *Bencao Gangmu* (zh), *Shams al-Maʿārif*.
+- **03-Materials-Mineralogy** — *Ancient Manuscripts — Materials, Minerals & Metals*. Verbatim: Theophrastus' *On Stones*; Aristotle's *Meteorologica*; *Arthashastra*; Theophilus' *On Divers Arts*; Agricola's *De Re Metallica*; Pliny (materials); al-Bīrūnī's *Kitāb al-Jamāhir*. Pointers: Jabirian corpus, al-Rāzī, *Tiāngōng Kāiwù* (zh), *Kaogong Ji* (zh), Egyptian craft texts, cuneiform tablets, Emerald Tablet, *Turba Philosophorum*.
 - **04-Human-Behavior** — *Ancient Manuscripts — Human Behavior & Character*. Verbatim: Aristotle's *Nicomachean Ethics*; Theophrastus' *Characters*; Plato's *Republic*; Marcus Aurelius' *Meditations*; Seneca's *De Ira*; Confucius' *Analects*; Laozi's *Tao Te Ching*; *Bhagavad Gita*; *Arthashastra*. Pointers: al-Ghazālī's *Iḥyāʾ*, Ibn Miskawayh, Ibn Khaldun's *Muqaddimah*, mirrors-for-princes.
-- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar); **the complete Holy Qur'an** (114 surahs, Uthmani Arabic + Pickthall English, from quran.com). Pointers: the six canonical Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature, *Kitāb al-Aghānī*, and *Nujūm al-ʿUlūm* ("Stars of the Sciences", Muḥammad Qulī of Bijapur, 1571) — none with a free complete authentic PD edition located.
-
+- **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: the complete **Holy Qur'an** (114 surahs, Uthmani + Pickthall); **Ṣaḥīḥ al-Bukhārī** and **Ṣaḥīḥ Muslim** (full hadith, Arabic); **Muʿjam al-Buldān** (Yāqūt); Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar). Pointers: the other four Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature, *Kitāb al-Aghānī*, and *Nujūm al-ʿUlūm* (1571) — none with a free complete authentic PD edition located.
+ 
 Each manuscript folder contains a `README.md` (title, author, language, source URL, public-domain basis) and, where available, the verbatim `text.txt`. See each category's `_MANIFEST.md` for the full status table.
 
 ---

@@ -21,11 +21,12 @@ The other root text of Ayurveda; the primary source for classical Indian surgica
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (1571793 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://sa.wikisource.org/wiki/सुश्रुतसंहिता
+**Source URL:** https://sa.wikisource.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%A4%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

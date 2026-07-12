@@ -17,6 +17,6 @@
 | on-the-parts-of-animals | downloaded | text.txt (327707B) | en |
 | one-thousand-and-one-nights | downloaded | text.txt (49595B) | en |
 | panchatantra | downloaded | text.txt (441427B) | en |
-| shan-hai-jing | pointer | — | — |
+| shan-hai-jing | downloaded | text.txt (110671B) | zh |
 
-**Total:** 16 · **downloaded (verbatim):** 10 · **pointer:** 6
+**Total:** 16 · **downloaded (verbatim):** 11 · **pointer:** 5

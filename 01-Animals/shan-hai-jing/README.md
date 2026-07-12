@@ -21,11 +21,12 @@ A cornerstone of Chinese myth and early geographic/zoological imagination; paral
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (109258 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://zh.wikisource.org/wiki/山海經
+**Source URL:** https://zh.wikisource.org/wiki/%E5%B1%B1%E6%B5%B7%E7%B6%93
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

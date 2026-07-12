@@ -21,11 +21,12 @@ The most scientifically rigorous pre-modern mineralogy; al-Biruni anticipated sp
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (580662 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/الجماهر_في_معرفة_الجواهر
+**Source URL:** https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D8%B1_%D9%81%D9%8A_%D9%85%D8%B9%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%87%D8%B1
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

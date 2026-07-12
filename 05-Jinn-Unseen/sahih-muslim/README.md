@@ -21,11 +21,12 @@ Co-equal with al-Bukhari as a pillar of Sunni hadith scholarship.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (3953948 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/صحيح_مسلم
+**Source URL:** https://ar.wikisource.org/wiki/%D8%B5%D8%AD%D9%8A%D8%AD_%D9%85%D8%B3%D9%84%D9%85
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 79 manuscripts: 32 verbatim public-domain texts + 47 pointers.
+> Auto-generated index of every category and manuscript. 79 manuscripts: 39 verbatim public-domain texts + 40 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -22,7 +22,7 @@
 | [on-the-parts-of-animals](01-Animals/on-the-parts-of-animals) | ✅ verbatim |
 | [one-thousand-and-one-nights](01-Animals/one-thousand-and-one-nights) | ✅ verbatim |
 | [panchatantra](01-Animals/panchatantra) | ✅ verbatim |
-| [shan-hai-jing](01-Animals/shan-hai-jing) | 🔗 pointer |
+| [shan-hai-jing](01-Animals/shan-hai-jing) | ✅ verbatim |
 
 ## 02-Plants-Botany (14 manuscripts)
 
@@ -31,7 +31,7 @@
 | [al-jami-mufradat](02-Plants-Botany/al-jami-mufradat) | 🔗 pointer |
 | [bencao-gangmu](02-Plants-Botany/bencao-gangmu) | 🔗 pointer |
 | [canon-of-medicine](02-Plants-Botany/canon-of-medicine) | 🔗 pointer |
-| [charaka-samhita](02-Plants-Botany/charaka-samhita) | 🔗 pointer |
+| [charaka-samhita](02-Plants-Botany/charaka-samhita) | ✅ verbatim |
 | [de-materia-medica](02-Plants-Botany/de-materia-medica) | ✅ verbatim |
 | [historia-plantarum](02-Plants-Botany/historia-plantarum) | ✅ verbatim |
 | [kitab-al-filaha](02-Plants-Botany/kitab-al-filaha) | 🔗 pointer |
@@ -40,7 +40,7 @@
 | [naturalis-historia-botany](02-Plants-Botany/naturalis-historia-botany) | ✅ verbatim |
 | [shams-al-maarif](02-Plants-Botany/shams-al-maarif) | 🔗 pointer |
 | [shennong-ben-cao-jing](02-Plants-Botany/shennong-ben-cao-jing) | ✅ verbatim |
-| [sushruta-samhita](02-Plants-Botany/sushruta-samhita) | 🔗 pointer |
+| [sushruta-samhita](02-Plants-Botany/sushruta-samhita) | ✅ verbatim |
 | [vrikshayurveda](02-Plants-Botany/vrikshayurveda) | ✅ verbatim |
 
 ## 03-Materials-Mineralogy (17 manuscripts)
@@ -57,7 +57,7 @@
 | [jabirian-corpus](03-Materials-Mineralogy/jabirian-corpus) | 🔗 pointer |
 | [kaogong-ji](03-Materials-Mineralogy/kaogong-ji) | 🔗 pointer |
 | [kitab-al-ahjar](03-Materials-Mineralogy/kitab-al-ahjar) | 🔗 pointer |
-| [kitab-al-jamahir](03-Materials-Mineralogy/kitab-al-jamahir) | 🔗 pointer |
+| [kitab-al-jamahir](03-Materials-Mineralogy/kitab-al-jamahir) | ✅ verbatim |
 | [meteorologica](03-Materials-Mineralogy/meteorologica) | ✅ verbatim |
 | [naturalis-historia-materials](03-Materials-Mineralogy/naturalis-historia-materials) | ✅ verbatim |
 | [on-stones](03-Materials-Mineralogy/on-stones) | ✅ verbatim |
@@ -93,12 +93,12 @@
 | [futuhat-al-makkiyya](05-Jinn-Unseen/futuhat-al-makkiyya) | ✅ verbatim |
 | [jami-al-tirmidhi](05-Jinn-Unseen/jami-al-tirmidhi) | 🔗 pointer |
 | [kitab-al-aghani](05-Jinn-Unseen/kitab-al-aghani) | 🔗 pointer |
-| [mujam-al-buldan](05-Jinn-Unseen/mujam-al-buldan) | 🔗 pointer |
+| [mujam-al-buldan](05-Jinn-Unseen/mujam-al-buldan) | ✅ verbatim |
 | [nujum-al-ulum](05-Jinn-Unseen/nujum-al-ulum) | 🔗 pointer |
 | [picatrix](05-Jinn-Unseen/picatrix) | 🔗 pointer |
 | [quran](05-Jinn-Unseen/quran) | ✅ verbatim |
-| [sahih-al-bukhari](05-Jinn-Unseen/sahih-al-bukhari) | 🔗 pointer |
-| [sahih-muslim](05-Jinn-Unseen/sahih-muslim) | 🔗 pointer |
+| [sahih-al-bukhari](05-Jinn-Unseen/sahih-al-bukhari) | ✅ verbatim |
+| [sahih-muslim](05-Jinn-Unseen/sahih-muslim) | ✅ verbatim |
 | [shams-al-maarif](05-Jinn-Unseen/shams-al-maarif) | 🔗 pointer |
 | [sunan-abu-dawud](05-Jinn-Unseen/sunan-abu-dawud) | 🔗 pointer |
 | [sunan-al-nasai](05-Jinn-Unseen/sunan-al-nasai) | 🔗 pointer |
@@ -108,4 +108,4 @@
 | [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | 🔗 pointer |
 
 
-**Totals:** 79 manuscripts · 32 verbatim · 47 pointer.
+**Totals:** 79 manuscripts · 39 verbatim · 40 pointer.

@@ -21,11 +21,12 @@ One of the two root texts of Ayurveda; central to South Asian medical botany.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (687321 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://sa.wikisource.org/wiki/चरकसंहिता
+**Source URL:** https://sa.wikisource.org/wiki/%E0%A4%9A%E0%A4%B0%E0%A4%95%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*
