@@ -1,0 +1,19 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local scratch (enrichment staging, generated portal, etc.)
+enrich/
+state/
+ai-library/out/
+__pycache__/
+*.pyc
+
+# Secrets / local config
+.env
+*.key
