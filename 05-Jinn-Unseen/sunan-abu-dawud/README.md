@@ -22,11 +22,10 @@ A core sunan collection feeding jurisprudential and occult-adjacent reports.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from https://ar.wikisource.org/wiki/سنن_أبي_داود.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/سنن_أبي_داود
+**Public-domain basis:** Wikisource (ar; original-language authentic public-domain edition).
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Retrieval date:** 2026-07-12
 
----
-*Part of the Ancient Manuscripts Library.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

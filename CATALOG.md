@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 113 manuscripts: 55 verbatim public-domain texts + 58 pointers.
+> Auto-generated index of every category and manuscript. 113 manuscripts: 60 verbatim public-domain texts + 53 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -100,8 +100,8 @@
 | [sahih-al-bukhari](05-Jinn-Unseen/sahih-al-bukhari) | ✅ verbatim |
 | [sahih-muslim](05-Jinn-Unseen/sahih-muslim) | ✅ verbatim |
 | [shams-al-maarif](05-Jinn-Unseen/shams-al-maarif) | 🔗 pointer |
-| [sunan-abu-dawud](05-Jinn-Unseen/sunan-abu-dawud) | 🔗 pointer |
-| [sunan-al-nasai](05-Jinn-Unseen/sunan-al-nasai) | 🔗 pointer |
+| [sunan-abu-dawud](05-Jinn-Unseen/sunan-abu-dawud) | ✅ verbatim |
+| [sunan-al-nasai](05-Jinn-Unseen/sunan-al-nasai) | ✅ verbatim |
 | [sunan-ibn-majah](05-Jinn-Unseen/sunan-ibn-majah) | 🔗 pointer |
 | [tafsir-al-qurtubi](05-Jinn-Unseen/tafsir-al-qurtubi) | 🔗 pointer |
 | [tafsir-al-tabari](05-Jinn-Unseen/tafsir-al-tabari) | 🔗 pointer |
@@ -117,7 +117,7 @@
 | [edwin-smith-papyrus](06-Medicine/edwin-smith-papyrus) | 🔗 pointer |
 | [galen-on-natural-faculties](06-Medicine/galen-on-natural-faculties) | ✅ verbatim |
 | [hippocrates](06-Medicine/hippocrates) | ✅ verbatim |
-| [huangdi-neijing](06-Medicine/huangdi-neijing) | 🔗 pointer |
+| [huangdi-neijing](06-Medicine/huangdi-neijing) | ✅ verbatim |
 | [rhazes-al-hawi](06-Medicine/rhazes-al-hawi) | 🔗 pointer |
 
 ## 07-Astronomy (7 manuscripts)
@@ -125,7 +125,7 @@
 | manuscript | status |
 |:-----------|:-------|
 | [al-sufi-book-of-fixed-stars](07-Astronomy/al-sufi-book-of-fixed-stars) | 🔗 pointer |
-| [aristotle-on-the-heavens](07-Astronomy/aristotle-on-the-heavens) | 🔗 pointer |
+| [aristotle-on-the-heavens](07-Astronomy/aristotle-on-the-heavens) | ✅ verbatim |
 | [chaucer-treatise-astrolabe](07-Astronomy/chaucer-treatise-astrolabe) | 🔗 pointer |
 | [copernicus-de-revolutionibus](07-Astronomy/copernicus-de-revolutionibus) | 🔗 pointer |
 | [ptolemy-almagest](07-Astronomy/ptolemy-almagest) | 🔗 pointer |
@@ -143,7 +143,7 @@
 | [kybalion](08-Alchemy-Occult/kybalion) | ✅ verbatim |
 | [picatrix](08-Alchemy-Occult/picatrix) | 🔗 pointer |
 | [secretum-secretorum](08-Alchemy-Occult/secretum-secretorum) | 🔗 pointer |
-| [turba-philosophorum](08-Alchemy-Occult/turba-philosophorum) | 🔗 pointer |
+| [turba-philosophorum](08-Alchemy-Occult/turba-philosophorum) | ✅ verbatim |
 
 ## 09-Geography-Travel (11 manuscripts)
 
@@ -162,4 +162,4 @@
 | [strabo-geographica](09-Geography-Travel/strabo-geographica) | 🔗 pointer |
 
 
-**Totals:** 113 manuscripts · 55 verbatim · 58 pointer.
+**Totals:** 113 manuscripts · 60 verbatim · 53 pointer.

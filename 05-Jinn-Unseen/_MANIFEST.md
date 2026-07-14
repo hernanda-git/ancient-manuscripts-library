@@ -13,11 +13,11 @@
 | sahih-al-bukhari | downloaded | text.txt (2045174B) | ar |
 | sahih-muslim | downloaded | text.txt (3969152B) | ar |
 | shams-al-maarif | pointer | — | — |
-| sunan-abu-dawud | pointer | — | — |
-| sunan-al-nasai | pointer | — | — |
+| sunan-abu-dawud | downloaded | text.txt (2740412B) | ar |
+| sunan-al-nasai | downloaded | text.txt (140103B) | ar |
 | sunan-ibn-majah | pointer | — | — |
 | tafsir-al-qurtubi | pointer | — | — |
 | tafsir-al-tabari | pointer | — | — |
 | tafsir-ibn-kathir | downloaded | text.txt (21851816B) | ar |
 
-**Total:** 17 · **downloaded (verbatim):** 6 · **pointer:** 11
+**Total:** 17 · **downloaded (verbatim):** 8 · **pointer:** 9

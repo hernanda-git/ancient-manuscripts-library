@@ -9,6 +9,6 @@
 | kybalion | downloaded | text.txt (207567B) | en |
 | picatrix | pointer | — | — |
 | secretum-secretorum | pointer | — | — |
-| turba-philosophorum | pointer | — | — |
+| turba-philosophorum | downloaded | text.txt (232488B) | en |
 
-**Total:** 8 · **downloaded (verbatim):** 2 · **pointer:** 6
+**Total:** 8 · **downloaded (verbatim):** 3 · **pointer:** 5

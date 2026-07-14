@@ -21,11 +21,10 @@ Completes the Sihah al-Sitta on hadith of the unseen and law.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from https://ar.wikisource.org/wiki/سنن_النسائي.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/سنن_النسائي
+**Public-domain basis:** Wikisource (ar; original-language authentic public-domain edition).
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Retrieval date:** 2026-07-12
 
----
-*Part of the Ancient Manuscripts Library.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

@@ -8,7 +8,7 @@
 | edwin-smith-papyrus | pointer | — | — |
 | galen-on-natural-faculties | downloaded | text.txt (293713B) | en |
 | hippocrates | downloaded | text.txt (1181921B) | en |
-| huangdi-neijing | pointer | — | — |
+| huangdi-neijing | downloaded | text.txt (581283B) | zh |
 | rhazes-al-hawi | pointer | — | — |
 
-**Total:** 8 · **downloaded (verbatim):** 3 · **pointer:** 5
+**Total:** 8 · **downloaded (verbatim):** 4 · **pointer:** 4
