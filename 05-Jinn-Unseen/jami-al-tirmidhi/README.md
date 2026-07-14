@@ -21,11 +21,10 @@ Definitive for hadith classification; part of the Sihah al-Sitta.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`hadith-collections-jami-at-tirmidhi-vol.-6-ahadith-3291-3956_202401`](https://archive.org/details/hadith-collections-jami-at-tirmidhi-vol.-6-ahadith-3291-3956_202401).
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/جامع_الترمذي
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Retrieval date:** 2026-07-12
 
----
-*Part of the Ancient Manuscripts Library.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

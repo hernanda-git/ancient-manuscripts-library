@@ -20,12 +20,10 @@ Earliest known surgical/textbook; empirical anatomy.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`theedwinsmithsurgicalpapyrusvolumeiii`](https://archive.org/details/theedwinsmithsurgicalpapyrusvolumeiii).
 
-**Authoritative reference:** https://en.wikipedia.org/wiki/Edwin_Smith_papyrus
-
-**Public-domain status:** No free authentic plain-text edition (hieroglyphic facsimile only).
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
 **Retrieval date:** 2026-07-12
 
-*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

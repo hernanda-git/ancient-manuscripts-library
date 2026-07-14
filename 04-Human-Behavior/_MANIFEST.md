@@ -8,7 +8,7 @@
 | de-ira | downloaded | text.txt (624091B) | en |
 | ihya-ulum-al-din | pointer | — | — |
 | meditations | downloaded | text.txt (449712B) | en |
-| muqaddimah | pointer | — | — |
+| muqaddimah | downloaded | text.txt (846418B) | en |
 | nasihat-al-muluk | pointer | — | — |
 | nicomachean-ethics | downloaded | text.txt (661858B) | en |
 | qabusnama | pointer | — | — |
@@ -18,4 +18,4 @@
 | tao-te-ching | downloaded | text.txt (61995B) | en |
 | the-analects | downloaded | text.txt (242782B) | zh |
 
-**Total:** 15 · **downloaded (verbatim):** 9 · **pointer:** 6
+**Total:** 15 · **downloaded (verbatim):** 10 · **pointer:** 5

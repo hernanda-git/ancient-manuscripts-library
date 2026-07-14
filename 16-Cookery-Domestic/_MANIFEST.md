@@ -2,8 +2,8 @@
 
 | manuscript | status | file | lang |
 :----------|:-------|:-----|:----|
-| anthimus-cooking | pointer | — | — |
+| anthimus-cooking | downloaded | text.txt (110366B) | en |
 | apicius-cookery | downloaded | text.txt (719470B) | en |
-| athenaeus-deipnosophists | pointer | — | — |
+| athenaeus-deipnosophists | downloaded | text.txt (1483861B) | el |
 
-**Total:** 3 · **downloaded (verbatim):** 1 · **pointer:** 2
+**Total:** 3 · **downloaded (verbatim):** 3 · **pointer:** 0

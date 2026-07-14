@@ -20,11 +20,13 @@ Most influential medieval occult handbook.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/غاية_الحكيم
+**Note:** OCR garbage, not usable authentic text.
 
-**Public-domain status:** No free complete authentic public-domain edition located online.
+**Authoritative reference:** https://archive.org/search?query=picatrix+ghayat+al-hakim
+
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
 
 **Retrieval date:** 2026-07-12
 

@@ -22,25 +22,25 @@ This is intentional: the requirement is *authentic source*, not *plausible text*
 ```
 ancient-manuscripts-library/
 ├── 00-Library-Framework/        # taxonomy + covered/planned checklist
-├── 01-Animals/                  # 16 manuscripts (11 verbatim + 5 pointers)
+├── 01-Animals/                  # 16 manuscripts (12 verbatim + 4 pointers)
 ├── 02-Plants-Botany/            # 14 manuscripts (7 verbatim + 7 pointers)
 ├── 03-Materials-Mineralogy/     # 17 manuscripts (7 verbatim + 10 pointers)
-├── 04-Human-Behavior/           # 15 manuscripts (9 verbatim + 6 pointers)
-├── 05-Jinn-Unseen/              # 17 manuscripts (8 verbatim + 9 pointers)
-├── 06-Medicine/                 # 8 manuscripts (4 verbatim + 4 pointers)
-├── 07-Astronomy/                # 7 manuscripts (3 verbatim + 4 pointers)
+├── 04-Human-Behavior/           # 15 manuscripts (10 verbatim + 5 pointers)
+├── 05-Jinn-Unseen/              # 17 manuscripts (10 verbatim + 7 pointers)
+├── 06-Medicine/                 # 8 manuscripts (5 verbatim + 3 pointers)
+├── 07-Astronomy/                # 7 manuscripts (5 verbatim + 2 pointers)
 ├── 08-Alchemy-Occult/           # 8 manuscripts (3 verbatim + 5 pointers)
-├── 09-Geography-Travel/         # 11 manuscripts (8 verbatim + 3 pointers)
-├── 10-Law-Governance/           # 9 manuscripts (6 verbatim + 3 pointers)
-├── 11-War-Strategy/             # 7 manuscripts (3 verbatim + 4 pointers)
-├── 12-Historiography/           # 6 manuscripts (3 verbatim + 3 pointers)
-├── 13-Rhetoric-Poetics/         # 6 manuscripts (3 verbatim + 3 pointers)
-├── 14-Philosophy-Logic/         # 6 manuscripts (5 verbatim + 1 pointer)
-├── 15-Mathematics-Science/      # 5 manuscripts (2 verbatim + 3 pointers)
-├── 16-Cookery-Domestic/         # 3 manuscripts (1 verbatim + 2 pointers)
-├── 17-Agriculture-Husbandry/    # 4 manuscripts (1 verbatim + 3 pointers)
+├── 09-Geography-Travel/         # 11 manuscripts (10 verbatim + 1 pointer)
+├── 10-Law-Governance/           # 9 manuscripts (8 verbatim + 1 pointer)
+├── 11-War-Strategy/             # 7 manuscripts (4 verbatim + 3 pointers)
+├── 12-Historiography/           # 6 manuscripts (6 verbatim + 0 pointers)
+├── 13-Rhetoric-Poetics/         # 6 manuscripts (5 verbatim + 1 pointer)
+├── 14-Philosophy-Logic/         # 6 manuscripts (6 verbatim + 0 pointers)
+├── 15-Mathematics-Science/      # 5 manuscripts (5 verbatim + 0 pointers)
+├── 16-Cookery-Domestic/         # 3 manuscripts (3 verbatim + 0 pointers)
+├── 17-Agriculture-Husbandry/    # 4 manuscripts (3 verbatim + 1 pointer)
 ├── 18-Epics-Mythology/           # 5 manuscripts (4 verbatim + 1 pointer)
-├── 19-Divination-Geomancy/      # 4 manuscripts (1 verbatim + 3 pointers)
+├── 19-Divination-Geomancy/      # 4 manuscripts (4 verbatim + 0 pointers)
 │
 ├── README.md                    # ← You are here
 ├── CATALOG.md                   # ← Full structure map + per-manuscript status
@@ -55,8 +55,8 @@ ancient-manuscripts-library/
 | Metric | Value |
 |:-------|:------|
 | **📚 Manuscripts catalogued** | **168** across 19 domains |
-| **📄 Verbatim public-domain texts included** | **89** (Gutenberg / Wikisource / archive.org / quran.com) |
-| **🔗 Pointer entries (no free authentic edition)** | **79** (bibliography + source link) |
+| **📄 Verbatim public-domain texts included** | **117** (Gutenberg / Wikisource / archive.org / quran.com) |
+| **🔗 Pointer entries (no free authentic edition)** | **51** (bibliography + source link) |
 | **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
 | **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |

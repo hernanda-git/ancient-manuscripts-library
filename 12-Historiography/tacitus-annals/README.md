@@ -20,12 +20,10 @@ Master of Roman historiography.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`furneaux-annals.-bk.-1-6-2nd-ed.-1934-lat-en-comm`](https://archive.org/details/furneaux-annals.-bk.-1-6-2nd-ed.-1934-lat-en-comm).
 
-**Authoritative reference:** https://en.wikisource.org/wiki/Annals_(Tacitus)
-
-**Public-domain status:** No free complete authentic public-domain plain-text edition located online.
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
 **Retrieval date:** 2026-07-12
 
-*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

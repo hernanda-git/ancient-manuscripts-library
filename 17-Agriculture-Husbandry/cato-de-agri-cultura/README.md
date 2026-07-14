@@ -20,12 +20,10 @@ Earliest Roman agricultural treatise.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`deagriculturalib00catouoft`](https://archive.org/details/deagriculturalib00catouoft).
 
-**Authoritative reference:** https://en.wikisource.org/wiki/De_Agri_Cultura
-
-**Public-domain status:** No free complete authentic public-domain plain-text edition located online.
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
 **Retrieval date:** 2026-07-12
 
-*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

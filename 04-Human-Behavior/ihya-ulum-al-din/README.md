@@ -21,11 +21,14 @@ The most influential work of Muslim moral and spiritual renewal; shaped Islamic 
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/إحياء_علوم_الدين
+**Note:** Only a translated sub-section, not the full work.
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Authoritative reference:** https://archive.org/search?query=ihya+ulum+al-din+ghazali
 
----
-*Part of the Ancient Manuscripts Library.*
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
+
+**Retrieval date:** 2026-07-12
+
+*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*

@@ -22,11 +22,14 @@ The root of both Islamic and European (Latin 'Geber') alchemy and early chemistr
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/كتاب_الكيمياء
+**Note:** Wrong item (Institut d'Egypte memoir), not Jabir's corpus.
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Authoritative reference:** https://archive.org/search?query=jabir+ibn+hayyan
 
----
-*Part of the Ancient Manuscripts Library.*
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
+
+**Retrieval date:** 2026-07-12
+
+*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*

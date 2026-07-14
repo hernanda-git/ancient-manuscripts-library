@@ -20,11 +20,13 @@ Core of Western esoteric tradition.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
+
+**Note:** Modern Czech commentary, not the authentic Hermetica.
 
 **Authoritative reference:** https://en.wikisource.org/wiki/Corpus_Hermeticum
 
-**Public-domain status:** No free complete authentic public-domain plain-text edition located online.
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
 
 **Retrieval date:** 2026-07-12
 

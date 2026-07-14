@@ -20,12 +20,10 @@ A key source for Roman farming, alongside Cato and Columella, preserving practic
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain plain-text edition located online (the Wikisource `De re rustica` page is Columella's work, not Varro's; Varro's text survives only fragmentarily).
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`bim_eighteenth-century_de-re-rustica-english_varro-marcus-terentius_1800`](https://archive.org/details/bim_eighteenth-century_de-re-rustica-english_varro-marcus-terentius_1800).
 
-**Authoritative reference:** https://en.wikipedia.org/wiki/De_re_rustica_(Varro)
-
-**Public-domain status:** No free complete authentic public-domain plain-text edition located online.
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
 **Retrieval date:** 2026-07-12
 
-*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

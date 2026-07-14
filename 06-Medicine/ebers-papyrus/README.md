@@ -20,11 +20,13 @@ Oldest substantial medical document; Egyptian practical medicine.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://en.wikipedia.org/wiki/Ebers_Papyrus
+**Note:** Modern article on diabetes, not the papyrus text.
 
-**Public-domain status:** No free authentic plain-text edition (hieroglyphic facsimile only).
+**Authoritative reference:** https://archive.org/search?query=ebers+papyrus
+
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
 
 **Retrieval date:** 2026-07-12
 

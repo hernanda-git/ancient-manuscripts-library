@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 168 manuscripts: 89 verbatim public-domain texts + 79 pointers.
+> Auto-generated index of every category and manuscript. 168 manuscripts: 117 verbatim public-domain texts + 51 pointers.
 
 
 ## 00-Library-Framework (0 manuscripts)
@@ -13,7 +13,7 @@
 | manuscript | status |
 |:-----------|:-------|
 | [ajaaib-al-makhluqat](01-Animals/ajaaib-al-makhluqat) | 🔗 pointer |
-| [babylonian-assyrian-omens](01-Animals/babylonian-assyrian-omens) | 🔗 pointer |
+| [babylonian-assyrian-omens](01-Animals/babylonian-assyrian-omens) | ✅ verbatim |
 | [ebers-papyrus-animals](01-Animals/ebers-papyrus-animals) | 🔗 pointer |
 | [epic-of-gilgamesh](01-Animals/epic-of-gilgamesh) | ✅ verbatim |
 | [erya](01-Animals/erya) | ✅ verbatim |
@@ -80,7 +80,7 @@
 | [de-ira](04-Human-Behavior/de-ira) | ✅ verbatim |
 | [ihya-ulum-al-din](04-Human-Behavior/ihya-ulum-al-din) | 🔗 pointer |
 | [meditations](04-Human-Behavior/meditations) | ✅ verbatim |
-| [muqaddimah](04-Human-Behavior/muqaddimah) | 🔗 pointer |
+| [muqaddimah](04-Human-Behavior/muqaddimah) | ✅ verbatim |
 | [nasihat-al-muluk](04-Human-Behavior/nasihat-al-muluk) | 🔗 pointer |
 | [nicomachean-ethics](04-Human-Behavior/nicomachean-ethics) | ✅ verbatim |
 | [qabusnama](04-Human-Behavior/qabusnama) | 🔗 pointer |
@@ -96,7 +96,7 @@
 |:-----------|:-------|
 | [ajaib-literature](05-Jinn-Unseen/ajaib-literature) | 🔗 pointer |
 | [futuhat-al-makkiyya](05-Jinn-Unseen/futuhat-al-makkiyya) | ✅ verbatim |
-| [jami-al-tirmidhi](05-Jinn-Unseen/jami-al-tirmidhi) | 🔗 pointer |
+| [jami-al-tirmidhi](05-Jinn-Unseen/jami-al-tirmidhi) | ✅ verbatim |
 | [kitab-al-aghani](05-Jinn-Unseen/kitab-al-aghani) | 🔗 pointer |
 | [mujam-al-buldan](05-Jinn-Unseen/mujam-al-buldan) | ✅ verbatim |
 | [nujum-al-ulum](05-Jinn-Unseen/nujum-al-ulum) | 🔗 pointer |
@@ -107,7 +107,7 @@
 | [shams-al-maarif](05-Jinn-Unseen/shams-al-maarif) | 🔗 pointer |
 | [sunan-abu-dawud](05-Jinn-Unseen/sunan-abu-dawud) | ✅ verbatim |
 | [sunan-al-nasai](05-Jinn-Unseen/sunan-al-nasai) | ✅ verbatim |
-| [sunan-ibn-majah](05-Jinn-Unseen/sunan-ibn-majah) | 🔗 pointer |
+| [sunan-ibn-majah](05-Jinn-Unseen/sunan-ibn-majah) | ✅ verbatim |
 | [tafsir-al-qurtubi](05-Jinn-Unseen/tafsir-al-qurtubi) | 🔗 pointer |
 | [tafsir-al-tabari](05-Jinn-Unseen/tafsir-al-tabari) | 🔗 pointer |
 | [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | ✅ verbatim |
@@ -119,7 +119,7 @@
 | [avicenna-canon-of-medicine](06-Medicine/avicenna-canon-of-medicine) | 🔗 pointer |
 | [culpeper-complete-herbal](06-Medicine/culpeper-complete-herbal) | ✅ verbatim |
 | [ebers-papyrus](06-Medicine/ebers-papyrus) | 🔗 pointer |
-| [edwin-smith-papyrus](06-Medicine/edwin-smith-papyrus) | 🔗 pointer |
+| [edwin-smith-papyrus](06-Medicine/edwin-smith-papyrus) | ✅ verbatim |
 | [galen-on-natural-faculties](06-Medicine/galen-on-natural-faculties) | ✅ verbatim |
 | [hippocrates](06-Medicine/hippocrates) | ✅ verbatim |
 | [huangdi-neijing](06-Medicine/huangdi-neijing) | ✅ verbatim |
@@ -131,8 +131,8 @@
 |:-----------|:-------|
 | [al-sufi-book-of-fixed-stars](07-Astronomy/al-sufi-book-of-fixed-stars) | 🔗 pointer |
 | [aristotle-on-the-heavens](07-Astronomy/aristotle-on-the-heavens) | ✅ verbatim |
-| [chaucer-treatise-astrolabe](07-Astronomy/chaucer-treatise-astrolabe) | 🔗 pointer |
-| [copernicus-de-revolutionibus](07-Astronomy/copernicus-de-revolutionibus) | 🔗 pointer |
+| [chaucer-treatise-astrolabe](07-Astronomy/chaucer-treatise-astrolabe) | ✅ verbatim |
+| [copernicus-de-revolutionibus](07-Astronomy/copernicus-de-revolutionibus) | ✅ verbatim |
 | [ptolemy-almagest](07-Astronomy/ptolemy-almagest) | 🔗 pointer |
 | [ptolemy-tetrabiblos](07-Astronomy/ptolemy-tetrabiblos) | ✅ verbatim |
 | [vitruvius-de-architectura](07-Astronomy/vitruvius-de-architectura) | ✅ verbatim |
@@ -161,23 +161,23 @@
 | [ibn-battuta-travels](09-Geography-Travel/ibn-battuta-travels) | 🔗 pointer |
 | [mandeville-travels](09-Geography-Travel/mandeville-travels) | ✅ verbatim |
 | [marco-polo-travels](09-Geography-Travel/marco-polo-travels) | ✅ verbatim |
-| [pausanias-description-greece](09-Geography-Travel/pausanias-description-greece) | 🔗 pointer |
+| [pausanias-description-greece](09-Geography-Travel/pausanias-description-greece) | ✅ verbatim |
 | [poetic-edda](09-Geography-Travel/poetic-edda) | ✅ verbatim |
 | [prose-edda](09-Geography-Travel/prose-edda) | ✅ verbatim |
-| [strabo-geographica](09-Geography-Travel/strabo-geographica) | 🔗 pointer |
+| [strabo-geographica](09-Geography-Travel/strabo-geographica) | ✅ verbatim |
 
 ## 10-Law-Governance (9 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
-| [aquinas-summa](10-Law-Governance/aquinas-summa) | 🔗 pointer |
+| [aquinas-summa](10-Law-Governance/aquinas-summa) | ✅ verbatim |
 | [aristotle-politics](10-Law-Governance/aristotle-politics) | ✅ verbatim |
 | [cicero-de-officiis](10-Law-Governance/cicero-de-officiis) | 🔗 pointer |
 | [cicero-de-republica](10-Law-Governance/cicero-de-republica) | ✅ verbatim |
 | [institutes-of-justinian](10-Law-Governance/institutes-of-justinian) | ✅ verbatim |
 | [leviathan](10-Law-Governance/leviathan) | ✅ verbatim |
 | [social-contract](10-Law-Governance/social-contract) | ✅ verbatim |
-| [spirit-of-laws](10-Law-Governance/spirit-of-laws) | 🔗 pointer |
+| [spirit-of-laws](10-Law-Governance/spirit-of-laws) | ✅ verbatim |
 | [the-prince](10-Law-Governance/the-prince) | ✅ verbatim |
 
 ## 11-War-Strategy (7 manuscripts)
@@ -185,7 +185,7 @@
 | manuscript | status |
 |:-----------|:-------|
 | [art-of-war-sun-tzu](11-War-Strategy/art-of-war-sun-tzu) | ✅ verbatim |
-| [de-re-militari](11-War-Strategy/de-re-militari) | 🔗 pointer |
+| [de-re-militari](11-War-Strategy/de-re-militari) | ✅ verbatim |
 | [frontinus-stratagems](11-War-Strategy/frontinus-stratagems) | 🔗 pointer |
 | [histories-of-polybius](11-War-Strategy/histories-of-polybius) | ✅ verbatim |
 | [machiavelli-art-of-war](11-War-Strategy/machiavelli-art-of-war) | 🔗 pointer |
@@ -197,10 +197,10 @@
 | manuscript | status |
 |:-----------|:-------|
 | [decline-and-fall](12-Historiography/decline-and-fall) | ✅ verbatim |
-| [josephus-antiquities](12-Historiography/josephus-antiquities) | 🔗 pointer |
-| [livy-ab-urbe](12-Historiography/livy-ab-urbe) | 🔗 pointer |
+| [josephus-antiquities](12-Historiography/josephus-antiquities) | ✅ verbatim |
+| [livy-ab-urbe](12-Historiography/livy-ab-urbe) | ✅ verbatim |
 | [plutarch-lives](12-Historiography/plutarch-lives) | ✅ verbatim |
-| [tacitus-annals](12-Historiography/tacitus-annals) | 🔗 pointer |
+| [tacitus-annals](12-Historiography/tacitus-annals) | ✅ verbatim |
 | [thucydides-history](12-Historiography/thucydides-history) | ✅ verbatim |
 
 ## 13-Rhetoric-Poetics (6 manuscripts)
@@ -208,8 +208,8 @@
 | manuscript | status |
 |:-----------|:-------|
 | [aristotle-poetics](13-Rhetoric-Poetics/aristotle-poetics) | ✅ verbatim |
-| [aristotle-rhetoric](13-Rhetoric-Poetics/aristotle-rhetoric) | 🔗 pointer |
-| [cicero-de-oratore](13-Rhetoric-Poetics/cicero-de-oratore) | 🔗 pointer |
+| [aristotle-rhetoric](13-Rhetoric-Poetics/aristotle-rhetoric) | ✅ verbatim |
+| [cicero-de-oratore](13-Rhetoric-Poetics/cicero-de-oratore) | ✅ verbatim |
 | [horace-ars-poetica](13-Rhetoric-Poetics/horace-ars-poetica) | 🔗 pointer |
 | [on-the-sublime](13-Rhetoric-Poetics/on-the-sublime) | ✅ verbatim |
 | [quintilian-institutes](13-Rhetoric-Poetics/quintilian-institutes) | ✅ verbatim |
@@ -222,35 +222,35 @@
 | [descartes-meditationes](14-Philosophy-Logic/descartes-meditationes) | ✅ verbatim |
 | [diogenes-laertius](14-Philosophy-Logic/diogenes-laertius) | ✅ verbatim |
 | [ethics-spinoza](14-Philosophy-Logic/ethics-spinoza) | ✅ verbatim |
-| [plotinus-enneads](14-Philosophy-Logic/plotinus-enneads) | 🔗 pointer |
+| [plotinus-enneads](14-Philosophy-Logic/plotinus-enneads) | ✅ verbatim |
 | [proclus-elements](14-Philosophy-Logic/proclus-elements) | ✅ verbatim |
 
 ## 15-Mathematics-Science (5 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
-| [apollonius-conics](15-Mathematics-Science/apollonius-conics) | 🔗 pointer |
+| [apollonius-conics](15-Mathematics-Science/apollonius-conics) | ✅ verbatim |
 | [archimedes-works](15-Mathematics-Science/archimedes-works) | ✅ verbatim |
-| [euclid-elements](15-Mathematics-Science/euclid-elements) | 🔗 pointer |
+| [euclid-elements](15-Mathematics-Science/euclid-elements) | ✅ verbatim |
 | [hero-pneumatics](15-Mathematics-Science/hero-pneumatics) | ✅ verbatim |
-| [nicomachus-arithmetic](15-Mathematics-Science/nicomachus-arithmetic) | 🔗 pointer |
+| [nicomachus-arithmetic](15-Mathematics-Science/nicomachus-arithmetic) | ✅ verbatim |
 
 ## 16-Cookery-Domestic (3 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
-| [anthimus-cooking](16-Cookery-Domestic/anthimus-cooking) | 🔗 pointer |
+| [anthimus-cooking](16-Cookery-Domestic/anthimus-cooking) | ✅ verbatim |
 | [apicius-cookery](16-Cookery-Domestic/apicius-cookery) | ✅ verbatim |
-| [athenaeus-deipnosophists](16-Cookery-Domestic/athenaeus-deipnosophists) | 🔗 pointer |
+| [athenaeus-deipnosophists](16-Cookery-Domestic/athenaeus-deipnosophists) | ✅ verbatim |
 
 ## 17-Agriculture-Husbandry (4 manuscripts)
 
 | manuscript | status |
 |:-----------|:-------|
-| [cato-de-agri-cultura](17-Agriculture-Husbandry/cato-de-agri-cultura) | 🔗 pointer |
+| [cato-de-agri-cultura](17-Agriculture-Husbandry/cato-de-agri-cultura) | ✅ verbatim |
 | [columella-de-re-rustica](17-Agriculture-Husbandry/columella-de-re-rustica) | ✅ verbatim |
 | [geoponica](17-Agriculture-Husbandry/geoponica) | 🔗 pointer |
-| [varro-re-rustica](17-Agriculture-Husbandry/varro-re-rustica) | 🔗 pointer |
+| [varro-re-rustica](17-Agriculture-Husbandry/varro-re-rustica) | ✅ verbatim |
 
 ## 18-Epics-Mythology (5 manuscripts)
 
@@ -266,10 +266,10 @@
 
 | manuscript | status |
 |:-----------|:-------|
-| [artemidorus-oneirocritica](19-Divination-Geomancy/artemidorus-oneirocritica) | 🔗 pointer |
-| [cicero-de-divinatione](19-Divination-Geomancy/cicero-de-divinatione) | 🔗 pointer |
+| [artemidorus-oneirocritica](19-Divination-Geomancy/artemidorus-oneirocritica) | ✅ verbatim |
+| [cicero-de-divinatione](19-Divination-Geomancy/cicero-de-divinatione) | ✅ verbatim |
 | [i-ching](19-Divination-Geomancy/i-ching) | ✅ verbatim |
-| [sortes-sanctorum](19-Divination-Geomancy/sortes-sanctorum) | 🔗 pointer |
+| [sortes-sanctorum](19-Divination-Geomancy/sortes-sanctorum) | ✅ verbatim |
 
 
-**Totals:** 168 manuscripts · 89 verbatim · 79 pointer.
+**Totals:** 168 manuscripts · 117 verbatim · 51 pointer.

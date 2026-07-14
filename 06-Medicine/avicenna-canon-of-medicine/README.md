@@ -20,11 +20,13 @@ Standard medical textbook in Europe & Islam for centuries.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/القانون_في_الطب
+**Note:** OCR garbage / not usable authentic text.
 
-**Public-domain status:** No free complete authentic public-domain edition located online (partial only).
+**Authoritative reference:** https://archive.org/search?query=avicenna+canon+of+medicine
+
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
 
 **Retrieval date:** 2026-07-12
 

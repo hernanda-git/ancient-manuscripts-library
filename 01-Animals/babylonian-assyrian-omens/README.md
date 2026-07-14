@@ -21,11 +21,10 @@ The largest body of cuneiform divinatory literature; shows how animals were wove
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt`, retrieved unmodified from archive.org item [`babylonianassyri00jastuoft`](https://archive.org/details/babylonianassyri00jastuoft).
 
-**Authoritative reference:** https://en.wikipedia.org/wiki/Babylonian_omens
+**Public-domain basis:** Internet Archive scanned public-domain edition (full OCR/DjVu text).
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Retrieval date:** 2026-07-12
 
----
-*Part of the Ancient Manuscripts Library.*
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

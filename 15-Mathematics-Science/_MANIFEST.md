@@ -2,10 +2,10 @@
 
 | manuscript | status | file | lang |
 :----------|:-------|:-----|:----|
-| apollonius-conics | pointer | — | — |
+| apollonius-conics | downloaded | text.txt (2103887B) | en |
 | archimedes-works | downloaded | text.txt (106722B) | en |
-| euclid-elements | pointer | — | — |
+| euclid-elements | downloaded | text.txt (844191B) | en |
 | hero-pneumatics | downloaded | text.txt (211091B) | el |
-| nicomachus-arithmetic | pointer | — | — |
+| nicomachus-arithmetic | downloaded | text.txt (908736B) | en |
 
-**Total:** 5 · **downloaded (verbatim):** 2 · **pointer:** 3
+**Total:** 5 · **downloaded (verbatim):** 5 · **pointer:** 0

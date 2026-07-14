@@ -3,7 +3,7 @@
 | manuscript | status | file | lang |
 :----------|:-------|:-----|:----|
 | ajaaib-al-makhluqat | pointer | — | — |
-| babylonian-assyrian-omens | pointer | — | — |
+| babylonian-assyrian-omens | downloaded | text.txt (221998B) | en |
 | ebers-papyrus-animals | pointer | — | — |
 | epic-of-gilgamesh | downloaded | text.txt (251875B) | en |
 | erya | downloaded | text.txt (55493B) | zh |
@@ -19,4 +19,4 @@
 | panchatantra | downloaded | text.txt (441427B) | en |
 | shan-hai-jing | downloaded | text.txt (110671B) | zh |
 
-**Total:** 16 · **downloaded (verbatim):** 11 · **pointer:** 5
+**Total:** 16 · **downloaded (verbatim):** 12 · **pointer:** 4

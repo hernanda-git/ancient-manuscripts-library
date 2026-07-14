@@ -20,11 +20,13 @@ Influential ceremonial-magic grimoire.
 
 ## Source & authenticity
 
-🔗 **TEXT NOT INCLUDED** — no free authentic public-domain edition located.
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://en.wikipedia.org/wiki/Book_of_Abramelin
+**Note:** Modern translation, authenticity/PD unclear.
 
-**Public-domain status:** No free complete authentic public-domain edition located online.
+**Authoritative reference:** https://archive.org/search?query=abramelin
+
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
 
 **Retrieval date:** 2026-07-12
 

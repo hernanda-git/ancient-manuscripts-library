@@ -21,11 +21,14 @@ The standard medical textbook of both Islamic and European medicine for six cent
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+🔗 **TEXT NOT INCLUDED** — no clean free authentic public-domain plain-text edition located.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/القانون_في_الطب
+**Note:** OCR garbage / not usable authentic text.
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Authoritative reference:** https://archive.org/search?query=avicenna+canon+of+medicine
 
----
-*Part of the Ancient Manuscripts Library.*
+**Public-domain status:** No clean free authentic public-domain plain-text edition located online.
+
+**Retrieval date:** 2026-07-12
+
+*This entry is an honest metadata pointer. No text was fabricated, summarized, or translated.*
