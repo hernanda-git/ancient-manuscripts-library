@@ -1,7 +1,12 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 113 manuscripts: 60 verbatim public-domain texts + 53 pointers.
+> Auto-generated index of every category and manuscript. 168 manuscripts: 89 verbatim public-domain texts + 79 pointers.
 
+
+## 00-Library-Framework (0 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
 
 ## 01-Animals (16 manuscripts)
 
@@ -161,5 +166,110 @@
 | [prose-edda](09-Geography-Travel/prose-edda) | ✅ verbatim |
 | [strabo-geographica](09-Geography-Travel/strabo-geographica) | 🔗 pointer |
 
+## 10-Law-Governance (9 manuscripts)
 
-**Totals:** 113 manuscripts · 60 verbatim · 53 pointer.
+| manuscript | status |
+|:-----------|:-------|
+| [aquinas-summa](10-Law-Governance/aquinas-summa) | 🔗 pointer |
+| [aristotle-politics](10-Law-Governance/aristotle-politics) | ✅ verbatim |
+| [cicero-de-officiis](10-Law-Governance/cicero-de-officiis) | 🔗 pointer |
+| [cicero-de-republica](10-Law-Governance/cicero-de-republica) | ✅ verbatim |
+| [institutes-of-justinian](10-Law-Governance/institutes-of-justinian) | ✅ verbatim |
+| [leviathan](10-Law-Governance/leviathan) | ✅ verbatim |
+| [social-contract](10-Law-Governance/social-contract) | ✅ verbatim |
+| [spirit-of-laws](10-Law-Governance/spirit-of-laws) | 🔗 pointer |
+| [the-prince](10-Law-Governance/the-prince) | ✅ verbatim |
+
+## 11-War-Strategy (7 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [art-of-war-sun-tzu](11-War-Strategy/art-of-war-sun-tzu) | ✅ verbatim |
+| [de-re-militari](11-War-Strategy/de-re-militari) | 🔗 pointer |
+| [frontinus-stratagems](11-War-Strategy/frontinus-stratagems) | 🔗 pointer |
+| [histories-of-polybius](11-War-Strategy/histories-of-polybius) | ✅ verbatim |
+| [machiavelli-art-of-war](11-War-Strategy/machiavelli-art-of-war) | 🔗 pointer |
+| [on-war](11-War-Strategy/on-war) | ✅ verbatim |
+| [onasander](11-War-Strategy/onasander) | 🔗 pointer |
+
+## 12-Historiography (6 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [decline-and-fall](12-Historiography/decline-and-fall) | ✅ verbatim |
+| [josephus-antiquities](12-Historiography/josephus-antiquities) | 🔗 pointer |
+| [livy-ab-urbe](12-Historiography/livy-ab-urbe) | 🔗 pointer |
+| [plutarch-lives](12-Historiography/plutarch-lives) | ✅ verbatim |
+| [tacitus-annals](12-Historiography/tacitus-annals) | 🔗 pointer |
+| [thucydides-history](12-Historiography/thucydides-history) | ✅ verbatim |
+
+## 13-Rhetoric-Poetics (6 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [aristotle-poetics](13-Rhetoric-Poetics/aristotle-poetics) | ✅ verbatim |
+| [aristotle-rhetoric](13-Rhetoric-Poetics/aristotle-rhetoric) | 🔗 pointer |
+| [cicero-de-oratore](13-Rhetoric-Poetics/cicero-de-oratore) | 🔗 pointer |
+| [horace-ars-poetica](13-Rhetoric-Poetics/horace-ars-poetica) | 🔗 pointer |
+| [on-the-sublime](13-Rhetoric-Poetics/on-the-sublime) | ✅ verbatim |
+| [quintilian-institutes](13-Rhetoric-Poetics/quintilian-institutes) | ✅ verbatim |
+
+## 14-Philosophy-Logic (6 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [boethius-consolation](14-Philosophy-Logic/boethius-consolation) | ✅ verbatim |
+| [descartes-meditationes](14-Philosophy-Logic/descartes-meditationes) | ✅ verbatim |
+| [diogenes-laertius](14-Philosophy-Logic/diogenes-laertius) | ✅ verbatim |
+| [ethics-spinoza](14-Philosophy-Logic/ethics-spinoza) | ✅ verbatim |
+| [plotinus-enneads](14-Philosophy-Logic/plotinus-enneads) | 🔗 pointer |
+| [proclus-elements](14-Philosophy-Logic/proclus-elements) | ✅ verbatim |
+
+## 15-Mathematics-Science (5 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [apollonius-conics](15-Mathematics-Science/apollonius-conics) | 🔗 pointer |
+| [archimedes-works](15-Mathematics-Science/archimedes-works) | ✅ verbatim |
+| [euclid-elements](15-Mathematics-Science/euclid-elements) | 🔗 pointer |
+| [hero-pneumatics](15-Mathematics-Science/hero-pneumatics) | ✅ verbatim |
+| [nicomachus-arithmetic](15-Mathematics-Science/nicomachus-arithmetic) | 🔗 pointer |
+
+## 16-Cookery-Domestic (3 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [anthimus-cooking](16-Cookery-Domestic/anthimus-cooking) | 🔗 pointer |
+| [apicius-cookery](16-Cookery-Domestic/apicius-cookery) | ✅ verbatim |
+| [athenaeus-deipnosophists](16-Cookery-Domestic/athenaeus-deipnosophists) | 🔗 pointer |
+
+## 17-Agriculture-Husbandry (4 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [cato-de-agri-cultura](17-Agriculture-Husbandry/cato-de-agri-cultura) | 🔗 pointer |
+| [columella-de-re-rustica](17-Agriculture-Husbandry/columella-de-re-rustica) | ✅ verbatim |
+| [geoponica](17-Agriculture-Husbandry/geoponica) | 🔗 pointer |
+| [varro-re-rustica](17-Agriculture-Husbandry/varro-re-rustica) | 🔗 pointer |
+
+## 18-Epics-Mythology (5 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [aeneid](18-Epics-Mythology/aeneid) | 🔗 pointer |
+| [iliad](18-Epics-Mythology/iliad) | ✅ verbatim |
+| [metamorphoses](18-Epics-Mythology/metamorphoses) | ✅ verbatim |
+| [odyssey](18-Epics-Mythology/odyssey) | ✅ verbatim |
+| [theogony](18-Epics-Mythology/theogony) | ✅ verbatim |
+
+## 19-Divination-Geomancy (4 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [artemidorus-oneirocritica](19-Divination-Geomancy/artemidorus-oneirocritica) | 🔗 pointer |
+| [cicero-de-divinatione](19-Divination-Geomancy/cicero-de-divinatione) | 🔗 pointer |
+| [i-ching](19-Divination-Geomancy/i-ching) | ✅ verbatim |
+| [sortes-sanctorum](19-Divination-Geomancy/sortes-sanctorum) | 🔗 pointer |
+
+
+**Totals:** 168 manuscripts · 89 verbatim · 79 pointer.

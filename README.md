@@ -17,7 +17,7 @@ This is intentional: the requirement is *authentic source*, not *plausible text*
 
 ---
 
-## Repository Structure — 9 Domain Categories
+## Repository Structure — 19 Domain Categories
 
 ```
 ancient-manuscripts-library/
@@ -31,6 +31,16 @@ ancient-manuscripts-library/
 ├── 07-Astronomy/                # 7 manuscripts (3 verbatim + 4 pointers)
 ├── 08-Alchemy-Occult/           # 8 manuscripts (3 verbatim + 5 pointers)
 ├── 09-Geography-Travel/         # 11 manuscripts (8 verbatim + 3 pointers)
+├── 10-Law-Governance/           # 9 manuscripts (6 verbatim + 3 pointers)
+├── 11-War-Strategy/             # 7 manuscripts (3 verbatim + 4 pointers)
+├── 12-Historiography/           # 6 manuscripts (3 verbatim + 3 pointers)
+├── 13-Rhetoric-Poetics/         # 6 manuscripts (3 verbatim + 3 pointers)
+├── 14-Philosophy-Logic/         # 6 manuscripts (5 verbatim + 1 pointer)
+├── 15-Mathematics-Science/      # 5 manuscripts (2 verbatim + 3 pointers)
+├── 16-Cookery-Domestic/         # 3 manuscripts (1 verbatim + 2 pointers)
+├── 17-Agriculture-Husbandry/    # 4 manuscripts (1 verbatim + 3 pointers)
+├── 18-Epics-Mythology/           # 5 manuscripts (4 verbatim + 1 pointer)
+├── 19-Divination-Geomancy/      # 4 manuscripts (1 verbatim + 3 pointers)
 │
 ├── README.md                    # ← You are here
 ├── CATALOG.md                   # ← Full structure map + per-manuscript status
@@ -44,9 +54,9 @@ ancient-manuscripts-library/
 
 | Metric | Value |
 |:-------|:------|
-| **📚 Manuscripts catalogued** | **113** across 9 domains |
-| **📄 Verbatim public-domain texts included** | **60** (Gutenberg / Wikisource / archive.org / quran.com) |
-| **🔗 Pointer entries (no free authentic edition)** | **53** (bibliography + source link) |
+| **📚 Manuscripts catalogued** | **168** across 19 domains |
+| **📄 Verbatim public-domain texts included** | **89** (Gutenberg / Wikisource / archive.org / quran.com) |
+| **🔗 Pointer entries (no free authentic edition)** | **79** (bibliography + source link) |
 | **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
 | **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |
@@ -66,6 +76,16 @@ ancient-manuscripts-library/
 - **07-Astronomy** — *Ancient Manuscripts — Astronomy, Astrology & Cosmology*. Verbatim: Ptolemy's *Tetrabiblos*; Vitruvius' *De Architectura*; Aristotle's *On the Heavens*. Pointers: Ptolemy's *Almagest*, Copernicus, al-Ṣūfī, Chaucer's *Astrolabe*.
 - **08-Alchemy-Occult** — *Ancient Manuscripts — Alchemy, Hermetica & the Occult*. Verbatim: *The Kybalion*; *The Lesser Key of Solomon (Goetia)*; the *Turba Philosophorum*. Pointers: *Corpus Hermeticum*, *Picatrix*, *Abramelin*, Agrippa's *Occult Philosophy*, *Secretum Secretorum*.
 - **09-Geography-Travel** — *Ancient Manuscripts — Geography, Travel & Mythic History*. Verbatim: **Marco Polo**, **Mandeville**, **Herodotus**, **Heimskringla**, **Anglo-Saxon Chronicle**, **Prose & Poetic Edda**, **One Thousand and One Nights**. Pointers: Ibn Baṭṭūṭa's *Rihla*, Strabo, Pausanias.
+- **10-Law-Governance** — *Ancient Manuscripts — Law, Politics & Statecraft*. Verbatim: Machiavelli's *The Prince*; Hobbes' *Leviathan*; Rousseau's *Social Contract*; Aristotle's *Politics*; Justinian's *Institutes*; Cicero's *De Re Publica* & *De Officiis*. Pointers: Montesquieu's *Spirit of Laws*, Aquinas' *Summa*.
+- **11-War-Strategy** — *Ancient Manuscripts — Warfare & Strategy*. Verbatim: Sun Tzu's *Art of War*; Clausewitz's *On War*; Polybius' *Histories*. Pointers: Machiavelli's *Art of War*, Vegetius, Frontinus, Onasander.
+- **12-Historiography** — *Ancient Manuscripts — History & Historical Method*. Verbatim: Plutarch's *Lives*; Gibbon's *Decline and Fall*; Thucydides' *History*. Pointers: Tacitus, Josephus, Livy.
+- **13-Rhetoric-Poetics** — *Ancient Manuscripts — Rhetoric & Literary Theory*. Verbatim: Aristotle's *Poetics*; Longinus' *On the Sublime*; Quintilian's *Institutio Oratoria*. Pointers: Aristotle's *Rhetoric*, Cicero's *De Oratore*, Horace's *Ars Poetica*.
+- **14-Philosophy-Logic** — *Ancient Manuscripts — Philosophy & Metaphysics*. Verbatim: Spinoza's *Ethics*; Proclus' *Elements of Theology*; Diogenes Laertius; Boethius' *Consolation*; Descartes' *Meditations*. Pointers: Plotinus' *Enneads*.
+- **15-Mathematics-Science** — *Ancient Manuscripts — Mathematics & Natural Science*. Verbatim: Archimedes' *Works*; Hero of Alexandria's *Pneumatics*. Pointers: Euclid's *Elements*, Nicomachus, Apollonius' *Conics*.
+- **16-Cookery-Domestic** — *Ancient Manuscripts — Cuisine & Domestic Arts*. Verbatim: Apicius' *Cookery and Dining in Imperial Rome*. Pointers: Athenaeus' *Deipnosophistae*, Anthimus.
+- **17-Agriculture-Husbandry** — *Ancient Manuscripts — Agriculture & Estate Management*. Verbatim: Columella's *De Re Rustica* (la). Pointers: Cato, Varro, Geoponica.
+- **18-Epics-Mythology** — *Ancient Manuscripts — Epic & Myth*. Verbatim: Homer's *Iliad* & *Odyssey*; Ovid's *Metamorphoses*; Hesiod's *Theogony*. Pointers: Virgil's *Aeneid*.
+- **19-Divination-Geomancy** — *Ancient Manuscripts — Divination & the Cosmic Order*. Verbatim: the *I Ching* (周易, zh). Pointers: Artemidorus' *Oneirocritica*, Cicero's *De Divinatione*, Sortes.
  
 Each manuscript folder contains a `README.md` (title, author, language, source URL, public-domain basis) and, where available, the verbatim `text.txt`. See each category's `_MANIFEST.md` for the full status table.
 
