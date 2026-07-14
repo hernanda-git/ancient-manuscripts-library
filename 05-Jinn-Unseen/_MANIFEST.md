@@ -18,6 +18,6 @@
 | sunan-ibn-majah | pointer | — | — |
 | tafsir-al-qurtubi | pointer | — | — |
 | tafsir-al-tabari | pointer | — | — |
-| tafsir-ibn-kathir | pointer | — | — |
+| tafsir-ibn-kathir | downloaded | text.txt (21851816B) | ar |
 
-**Total:** 17 · **downloaded (verbatim):** 5 · **pointer:** 12
+**Total:** 17 · **downloaded (verbatim):** 6 · **pointer:** 11

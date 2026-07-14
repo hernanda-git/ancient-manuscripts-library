@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 113 manuscripts: 54 verbatim public-domain texts + 59 pointers.
+> Auto-generated index of every category and manuscript. 113 manuscripts: 55 verbatim public-domain texts + 58 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -105,7 +105,7 @@
 | [sunan-ibn-majah](05-Jinn-Unseen/sunan-ibn-majah) | 🔗 pointer |
 | [tafsir-al-qurtubi](05-Jinn-Unseen/tafsir-al-qurtubi) | 🔗 pointer |
 | [tafsir-al-tabari](05-Jinn-Unseen/tafsir-al-tabari) | 🔗 pointer |
-| [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | 🔗 pointer |
+| [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | ✅ verbatim |
 
 ## 06-Medicine (8 manuscripts)
 
@@ -162,4 +162,4 @@
 | [strabo-geographica](09-Geography-Travel/strabo-geographica) | 🔗 pointer |
 
 
-**Totals:** 113 manuscripts · 54 verbatim · 59 pointer.
+**Totals:** 113 manuscripts · 55 verbatim · 58 pointer.
