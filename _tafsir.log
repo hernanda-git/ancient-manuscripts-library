@@ -1,0 +1,16 @@
+
+[===] 05-Jinn-Unseen/tafsir-ibn-kathir (ar:تفسير ابن كثير)
+    ...20/114 subpages
+    ...40/114 subpages
+    ...60/114 subpages
+    ...80/114 subpages
+    ...100/114 subpages
+[OK] 05-Jinn-Unseen/tafsir-ibn-kathir -> 11783214 chars (21804794B) | ok subs=114 chars=11783214
+
+[===] 05-Jinn-Unseen/tafsir-al-tabari (ar:تفسير الطبري)
+[SKIP] 05-Jinn-Unseen/tafsir-al-tabari -> reject subs=0 chars=0 head=''
+
+[===] 05-Jinn-Unseen/tafsir-al-qurtubi (ar:الجامع لأحكام القرآن)
+[SKIP] 05-Jinn-Unseen/tafsir-al-qurtubi -> reject subs=1 chars=92 head='الجامع لأحكام القرآن للإمام القرطبي\n\nوهو'
+
+TAFSIR RUNNER DONE

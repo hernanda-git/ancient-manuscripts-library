@@ -21,11 +21,12 @@ The most-cited classical tafsir in the modern Muslim world.
 
 ## Source & authenticity
 
-⚠️ **TEXT NOT INCLUDED — no free authentic public-domain edition located.**
+✅ **Full verbatim text included** — `text.txt` (21804794 bytes), retrieved unmodified from Wikisource.
 
-**Authoritative reference:** https://ar.wikisource.org/wiki/تفسير_ابن_كثير
+**Source URL:** https://ar.wikisource.org/wiki/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1_%D8%A7%D8%A8%D9%86_%D9%83%D8%AB%D9%8A%D8%B1
 
-*This entry is a pointer only. No manuscript text has been summarized, paraphrased, or generated.*
+**Public-domain basis:** Wikisource (original-language public-domain edition).
 
----
-*Part of the Ancient Manuscripts Library.*
+**Retrieval date:** 2026-07-12
+
+*No text was summarized, paraphrased, or generated — this is the authentic source file.*

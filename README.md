@@ -26,7 +26,11 @@ ancient-manuscripts-library/
 ├── 02-Plants-Botany/            # 14 manuscripts (7 verbatim + 7 pointers)
 ├── 03-Materials-Mineralogy/     # 17 manuscripts (7 verbatim + 10 pointers)
 ├── 04-Human-Behavior/           # 15 manuscripts (9 verbatim + 6 pointers)
-├── 05-Jinn-Unseen/           # 17 manuscripts (5 verbatim + 12 pointers)
+├── 05-Jinn-Unseen/              # 17 manuscripts (5 verbatim + 12 pointers)
+├── 06-Medicine/                 # 8 manuscripts (3 verbatim + 5 pointers)
+├── 07-Astronomy/                # 7 manuscripts (2 verbatim + 5 pointers)
+├── 08-Alchemy-Occult/           # 8 manuscripts (2 verbatim + 6 pointers)
+├── 09-Geography-Travel/         # 11 manuscripts (8 verbatim + 3 pointers)
 │
 ├── README.md                    # ← You are here
 ├── CATALOG.md                   # ← Full structure map + per-manuscript status
@@ -40,9 +44,9 @@ ancient-manuscripts-library/
 
 | Metric | Value |
 |:-------|:------|
-| **📚 Manuscripts catalogued** | **79** across 5 domains |
-| **📄 Verbatim public-domain texts included** | **39** (Gutenberg / Wikisource / archive.org / quran.com) |
-| **🔗 Pointer entries (no free authentic edition)** | **40** (bibliography + source link) |
+| **📚 Manuscripts catalogued** | **113** across 9 domains |
+| **📄 Verbatim public-domain texts included** | **54** (Gutenberg / Wikisource / archive.org / quran.com) |
+| **🔗 Pointer entries (no free authentic edition)** | **59** (bibliography + source link) |
 | **🌍 Languages** | English, Arabic, Greek, Latin, Sanskrit, Chinese, Persian |
 | **🗂️ Source platforms** | Project Gutenberg, Wikisource (en + ar/el/la/sa/zh/fa), archive.org |
 | **📡 Last Updated** | 2026-07-12 |
@@ -58,6 +62,10 @@ ancient-manuscripts-library/
 - **03-Materials-Mineralogy** — *Ancient Manuscripts — Materials, Minerals & Metals*. Verbatim: Theophrastus' *On Stones*; Aristotle's *Meteorologica*; *Arthashastra*; Theophilus' *On Divers Arts*; Agricola's *De Re Metallica*; Pliny (materials); al-Bīrūnī's *Kitāb al-Jamāhir*. Pointers: Jabirian corpus, al-Rāzī, *Tiāngōng Kāiwù* (zh), *Kaogong Ji* (zh), Egyptian craft texts, cuneiform tablets, Emerald Tablet, *Turba Philosophorum*.
 - **04-Human-Behavior** — *Ancient Manuscripts — Human Behavior & Character*. Verbatim: Aristotle's *Nicomachean Ethics*; Theophrastus' *Characters*; Plato's *Republic*; Marcus Aurelius' *Meditations*; Seneca's *De Ira*; Confucius' *Analects*; Laozi's *Tao Te Ching*; *Bhagavad Gita*; *Arthashastra*. Pointers: al-Ghazālī's *Iḥyāʾ*, Ibn Miskawayh, Ibn Khaldun's *Muqaddimah*, mirrors-for-princes.
 - **05-Jinn-Unseen** — *Ancient Manuscripts — Jinn, Spirits & the Unseen*. Verbatim: the complete **Holy Qur'an** (114 surahs, Uthmani + Pickthall); **Ṣaḥīḥ al-Bukhārī** and **Ṣaḥīḥ Muslim** (full hadith, Arabic); **Muʿjam al-Buldān** (Yāqūt); Ibn ʿArabī's *Futūḥāt al-Makkiyya* (ar). Pointers: the other four Hadith collections, the great *tafsīr*s, *Shams al-Maʿārif*, *Picatrix*, *Ajāʾib* literature, *Kitāb al-Aghānī*, and *Nujūm al-ʿUlūm* (1571) — none with a free complete authentic PD edition located.
+- **06-Medicine** — *Ancient Manuscripts — Medicine & Healing*. Verbatim: the **Hippocratic Corpus**; Galen's *On the Natural Faculties*; Culpeper's *Complete Herbal*. Pointers: Avicenna's *Canon*, al-Rāzī's *al-Ḥāwī*, the Ebers & Edwin Smith papyri, *Huangdi Neijing*.
+- **07-Astronomy** — *Ancient Manuscripts — Astronomy, Astrology & Cosmology*. Verbatim: Ptolemy's *Tetrabiblos*; Vitruvius' *De Architectura*. Pointers: Ptolemy's *Almagest*, Aristotle's *On the Heavens*, Copernicus, al-Ṣūfī, Chaucer's *Astrolabe*.
+- **08-Alchemy-Occult** — *Ancient Manuscripts — Alchemy, Hermetica & the Occult*. Verbatim: *The Kybalion*; *The Lesser Key of Solomon (Goetia)*. Pointers: *Corpus Hermeticum*, *Picatrix*, *Abramelin*, *Turba Philosophorum*, Agrippa's *Occult Philosophy*, *Secretum Secretorum*.
+- **09-Geography-Travel** — *Ancient Manuscripts — Geography, Travel & Mythic History*. Verbatim: **Marco Polo**, **Mandeville**, **Herodotus**, **Heimskringla**, **Anglo-Saxon Chronicle**, **Prose & Poetic Edda**, **One Thousand and One Nights**. Pointers: Ibn Baṭṭūṭa's *Rihla*, Strabo, Pausanias.
  
 Each manuscript folder contains a `README.md` (title, author, language, source URL, public-domain basis) and, where available, the verbatim `text.txt`. See each category's `_MANIFEST.md` for the full status table.
 

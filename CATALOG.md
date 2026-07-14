@@ -1,6 +1,6 @@
 # CATALOG.md — Ancient Manuscripts Library Structure Map
 
-> Auto-generated index of every category and manuscript. 79 manuscripts: 39 verbatim public-domain texts + 40 pointers.
+> Auto-generated index of every category and manuscript. 113 manuscripts: 54 verbatim public-domain texts + 59 pointers.
 
 
 ## 01-Animals (16 manuscripts)
@@ -107,5 +107,59 @@
 | [tafsir-al-tabari](05-Jinn-Unseen/tafsir-al-tabari) | 🔗 pointer |
 | [tafsir-ibn-kathir](05-Jinn-Unseen/tafsir-ibn-kathir) | 🔗 pointer |
 
+## 06-Medicine (8 manuscripts)
 
-**Totals:** 79 manuscripts · 39 verbatim · 40 pointer.
+| manuscript | status |
+|:-----------|:-------|
+| [avicenna-canon-of-medicine](06-Medicine/avicenna-canon-of-medicine) | 🔗 pointer |
+| [culpeper-complete-herbal](06-Medicine/culpeper-complete-herbal) | ✅ verbatim |
+| [ebers-papyrus](06-Medicine/ebers-papyrus) | 🔗 pointer |
+| [edwin-smith-papyrus](06-Medicine/edwin-smith-papyrus) | 🔗 pointer |
+| [galen-on-natural-faculties](06-Medicine/galen-on-natural-faculties) | ✅ verbatim |
+| [hippocrates](06-Medicine/hippocrates) | ✅ verbatim |
+| [huangdi-neijing](06-Medicine/huangdi-neijing) | 🔗 pointer |
+| [rhazes-al-hawi](06-Medicine/rhazes-al-hawi) | 🔗 pointer |
+
+## 07-Astronomy (7 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [al-sufi-book-of-fixed-stars](07-Astronomy/al-sufi-book-of-fixed-stars) | 🔗 pointer |
+| [aristotle-on-the-heavens](07-Astronomy/aristotle-on-the-heavens) | 🔗 pointer |
+| [chaucer-treatise-astrolabe](07-Astronomy/chaucer-treatise-astrolabe) | 🔗 pointer |
+| [copernicus-de-revolutionibus](07-Astronomy/copernicus-de-revolutionibus) | 🔗 pointer |
+| [ptolemy-almagest](07-Astronomy/ptolemy-almagest) | 🔗 pointer |
+| [ptolemy-tetrabiblos](07-Astronomy/ptolemy-tetrabiblos) | ✅ verbatim |
+| [vitruvius-de-architectura](07-Astronomy/vitruvius-de-architectura) | ✅ verbatim |
+
+## 08-Alchemy-Occult (8 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [agrippa-occult-philosophy](08-Alchemy-Occult/agrippa-occult-philosophy) | 🔗 pointer |
+| [book-of-abramelin](08-Alchemy-Occult/book-of-abramelin) | 🔗 pointer |
+| [corpus-hermeticum](08-Alchemy-Occult/corpus-hermeticum) | 🔗 pointer |
+| [key-of-solomon-goetia](08-Alchemy-Occult/key-of-solomon-goetia) | ✅ verbatim |
+| [kybalion](08-Alchemy-Occult/kybalion) | ✅ verbatim |
+| [picatrix](08-Alchemy-Occult/picatrix) | 🔗 pointer |
+| [secretum-secretorum](08-Alchemy-Occult/secretum-secretorum) | 🔗 pointer |
+| [turba-philosophorum](08-Alchemy-Occult/turba-philosophorum) | 🔗 pointer |
+
+## 09-Geography-Travel (11 manuscripts)
+
+| manuscript | status |
+|:-----------|:-------|
+| [anglo-saxon-chronicle](09-Geography-Travel/anglo-saxon-chronicle) | ✅ verbatim |
+| [arabian-nights](09-Geography-Travel/arabian-nights) | ✅ verbatim |
+| [heimskringla](09-Geography-Travel/heimskringla) | ✅ verbatim |
+| [herodotus-histories](09-Geography-Travel/herodotus-histories) | ✅ verbatim |
+| [ibn-battuta-travels](09-Geography-Travel/ibn-battuta-travels) | 🔗 pointer |
+| [mandeville-travels](09-Geography-Travel/mandeville-travels) | ✅ verbatim |
+| [marco-polo-travels](09-Geography-Travel/marco-polo-travels) | ✅ verbatim |
+| [pausanias-description-greece](09-Geography-Travel/pausanias-description-greece) | 🔗 pointer |
+| [poetic-edda](09-Geography-Travel/poetic-edda) | ✅ verbatim |
+| [prose-edda](09-Geography-Travel/prose-edda) | ✅ verbatim |
+| [strabo-geographica](09-Geography-Travel/strabo-geographica) | 🔗 pointer |
+
+
+**Totals:** 113 manuscripts · 54 verbatim · 59 pointer.
